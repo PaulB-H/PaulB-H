@@ -10,6 +10,7 @@
      > See my answers here <
   </a>
 </sup></p>
+<hr />
 <h4>See my portfolio at: <a href="https://www.devbypaul.ca">www.devbypaul.ca</a></h3>
 <h4>Find me on LinkedIn: <a href="https://www.linkedin.com/in/paulb-h/">linkedin.com/in/paulb-h/</a></h3>
 <h4>Email me: <a href="mailto:devbypaul@gmail.com">devbypaul@gmail.com</a></h3>
