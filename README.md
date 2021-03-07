@@ -15,6 +15,10 @@
      &nbsp;&nbsp;&nbsp;> Repo <
   </a>
 </sup></h4>
+  
+<hr />
+
+<p><sup>Getting familar with: <br />Ubuntu VPS over SSH<br />Deploying with PM2 & NGINX<br />Certbot for SSL</sup></p>
 
 <hr />
 
