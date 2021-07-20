@@ -1,7 +1,7 @@
 <h4>Web Developer</h4>
 <h5>
 HTML / CSS / JavaScript / Node / React / Maria / Mongo
-<br />API's + REST / Socket.io / HTTP Servers
+<br />API's + REST / HTTP Servers / Socket.io
 <br />Ubuntu / VPS / PM2 / NGINX
 </h5>
 
