@@ -4,8 +4,7 @@ Responsive Design
 <br />HTML / CSS / JavaScript / Node / React / Maria / Mongo
 <br />Ubuntu / SSH / VPS / PM2 / NGINX / Certbot
 <br />API's + REST / HTTP Servers / Socket.io
-<br />VS Code, Nano, Git, CLI Tools, SSH 
-<br />Analytics, Middleware
+<br />VS Code, Nano, Git, CLI Tools
 </h5>
 
 <p>Currently: Doing React, DB review, side projects
