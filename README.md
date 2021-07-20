@@ -1,9 +1,15 @@
 <h4>Web Developer</h4>
 <h5>
-HTML / CSS / JavaScript / Node / React / Maria / Mongo
+Responsive Design
+<br />HTML / CSS / JavaScript / Node / React / Maria / Mongo
+<br />Ubuntu / SSH / VPS / PM2 / NGINX / Certbot
 <br />API's + REST / HTTP Servers / Socket.io
-<br />Ubuntu / VPS / PM2 / NGINX
+<br />VS Code, Nano, Git, CLI Tools, SSH 
+<br />Analytics, Middleware
 </h5>
+
+<p>Currently: Doing React, DB review, side projects
+<br />Future: Animations, DS+A, working at an interesting job</p>
 
 Need work:
 <br /><a href="mailto:devbypaul@gmail.com">devbypaul@gmail.com</a>
