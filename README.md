@@ -5,8 +5,7 @@ HTML / CSS / JavaScript / Node / React / Maria / Mongo
 <br />Ubuntu / VPS / PM2 / NGINX
 </h5>
 
-
-Looking for work:
+Need work:
 <br /><a href="mailto:devbypaul@gmail.com">devbypaul@gmail.com</a>
 <br /><a href="https://devbypaul.com" target="_blank">devbypaul.com</a>
 
