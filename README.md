@@ -1,5 +1,7 @@
 <h1>Paul Bernard-Hall</h1>
 
+<p>Looking for my first coding job. Appreciate any leads or advice. devbypaul@gmail.com</p>
+
 <h2>Description</h2>
 
 <p>Full stack web developer, with a background in technical support leadership and training.</p>
