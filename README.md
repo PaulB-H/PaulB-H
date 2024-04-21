@@ -1,6 +1,13 @@
 <div>
   <h1>Paul Bernard-Hall</h1>
   <h3>JavaScript | Web | Game</h3>
+
+  -- 
+
+  <p>Currently Focusing On:<br /> Phaser, React, Multiplayer Game Dev, Docker</p>
+  <p>Deploying with:<br /> Ubuntu, CloudFlare, NGINX, PM2, and Node</p>
+  
+  --
   
   <h3>I love building with:</h3>
   <img src="icons\html5-original.svg" alt="" width="75" height="75">&nbsp;
