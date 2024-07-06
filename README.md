@@ -20,7 +20,7 @@
   
   <img src="icons\phaser-web-sm_added-padding.png" alt="" width="75" height="75">&nbsp;
   <img src="icons\tiled-white_added-bg.png" alt="" width="100" height="75">&nbsp;
-  <img src="icons\laighter.png" alt="" width="100" height="75">&nbsp;
+  <img src="icons\laighter.png" alt="" width="135" height="75">&nbsp;
   
   <img src="icons\nodejs-original-wordmark.svg" alt="" width="75" height="75">&nbsp;
   <img src="icons\react-original-wordmark-cropped.svg" alt="" width="75" height="75">&nbsp;
