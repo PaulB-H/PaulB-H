@@ -21,7 +21,7 @@
 
   ---
 
-  ### Wed Aug 9, 2024
+  ### Fri Aug 9, 2024
 
   <p>For the past month or so I have been learning <a href="https://esotericsoftware.com/">Spine 2D</a>. Spine lets you create skeletal based animations, which can greatly reduce filesize compared to using spritesheets. It also makes it easier to create natural feeling animations, as it can interpolate between keyframes for you. Spine pro also supports meshes and mesh deformation, which can be weighted to bones so moving a bone can deform specific vertices</p>
 
