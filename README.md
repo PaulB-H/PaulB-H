@@ -4,6 +4,9 @@
 
   <a href="https://paulbh.com">www.paulbh.com</a>
 
+  <p>Canadian / Luxembourgish Dual Citizen</p>
+  <p>Looking to emmigrate to the EU around 2026</p>
+
   ---
 
   <p><a href="https://javascript.info/">JavaScript</a> / <a href="https://www.typescriptlang.org/">TypeScript</a> Developer</p>
@@ -18,6 +21,28 @@
   <p>Android & iOS with <a href="https://capacitorjs.com/">Capacitor</a></p>
   <p>Hosting on <a href="https://ubuntu.com/">Ubuntu</a> with <a href="https://nodejs.org/">Node.js</a>, <a href="https://nginx.org/">NGINX</a>, and <a href="https://pm2.keymetrics.io/">PM2</a></p>
   <p>Protected with <a href="https://www.cloudflare.com/">Cloudflare</a> and <a href="https://certbot.eff.org/">Certbot</a></p>
+
+  ---
+
+  ### Mon Aug 12, 2024
+
+  <p>I have been getting familiar with different brushes in Krita and hoarding any good bundles I can find. Advanced brushes can make certian things, particuarilly textures and hair, a lot easier.</p>
+
+  <p>I have been trying a few different methods to make dragon scales, a reptile skin pattern with a couple  layers underneath to help make an outline around each scale. I am pretty happy with how this is turning out!</p>
+
+  <img src="https://github.com/user-attachments/assets/cdb8e77b-32a5-40e7-b1cf-4c0ae6581d45" width="500" />
+  <br /><br />
+ 
+
+  <p>Here are some of my favorite brush packs so far:</p>
+
+  <p><a href="https://krita-artists.org/t/rakurri-brush-set-v2-free-krita-brushes/33709">Rakurri Brush Set V2</a></p>
+
+  <p><a href="https://krita-artists.org/t/fizzyflowers-essential-brushset-version-2-with-400-brushes-cloud-paint-hair-fur-fx-foilage-trees-leaves-texture-smudge-and-more/38580">FizzyFlowers Essential Brushset V2</a></p>
+
+  <p><a href="https://krita-artists.org/t/grass-and-fields-brush-pack/60253">Grass and Fields Brush Pack - KMC Visuals</a></p>
+
+  <p><a href="https://krita-artists.org/t/basic-cloud-brushes/66120">Basic Cloud Brushes - Bea2</a></p>
 
   ---
 
