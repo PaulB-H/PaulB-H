@@ -26,7 +26,7 @@
 
   ### Mon Aug 12, 2024
 
-  <p>I have been getting familiar with different brushes in Krita and hoarding any good bundles I can find. Advanced brushes can make certian things, particuarilly textures and hair, a lot easier.</p>
+  <p>I am getting familiar with different brushes in Krita, and hoarding any good bundles I can find. Advanced brushes can make certian things, particuarilly textures and hair, a lot easier.</p>
 
   <p>I have been trying a few different methods to make dragon scales, a reptile skin pattern with a couple  layers underneath to help make an outline around each scale. I am pretty happy with how this is turning out!</p>
 
