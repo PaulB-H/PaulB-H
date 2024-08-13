@@ -1,4 +1,5 @@
 <div>
+
   <h1>Paul Bernard-Hall</h1>
   <h3>JavaScript | Web | Game</h3>
 
@@ -9,10 +10,9 @@
 
   ---
 
-  <p><a href="https://javascript.info/">JavaScript</a> / <a href="https://www.typescriptlang.org/">TypeScript</a> Developer</p>
-
   <h3>Here are some of the things I use the most:</h3>
 
+   <p><a href="https://javascript.info/">JavaScript</a> / <a href="https://www.typescriptlang.org/">TypeScript</a></p>
   <p>Game Dev with <a href="https://phaser.io/">Phaser</a> and <a href="https://react.dev/">React</a></p>
   <p>Image Editing with <a href="https://krita.org/en/">Krita</a> and <a href="https://www.aseprite.org/">Aesprite</a></p>
   <p>2D Skeletal Animation with <a href="https://esotericsoftware.com/">Spine 2D</a></p>
@@ -28,11 +28,14 @@
 
   <p>I am getting familiar with different brushes in Krita, and hoarding any good bundles I can find. Advanced brushes can make certian things, particuarilly textures and hair, a lot easier.</p>
 
-  <p>I have been trying a few different methods to make dragon scales, a reptile skin pattern with a couple  layers underneath to help make an outline around each scale. I am pretty happy with how this is turning out!</p>
+  <p>I have been trying a few different methods to make dragon scales, this one being made with a reptile texture brush and a few layers underneath.</p>
 
   <img src="https://github.com/user-attachments/assets/cdb8e77b-32a5-40e7-b1cf-4c0ae6581d45" width="500" />
   <br /><br />
- 
+
+  <p>I also found a cloud brush makes nice looking clouds very easily.</p>
+  <img src="https://github.com/user-attachments/assets/cfce4486-276a-461d-9a08-c088f2899dee" width="500" />
+  <br /><br />
 
   <p>Here are some of my favorite brush packs so far:</p>
 
