@@ -1,9 +1,13 @@
 <div>
 
   <h1>Paul Bernard-Hall</h1>
-  <h3>JavaScript | Web | Game</h3>
+  <h3>Game Developer <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub>JavaScript Fanatic</sub>
+  </h3>
 
-  <a href="https://paulbh.com">www.paulbh.com</a>
+  
+  <!-- <a href="https://paulbh.com">www.paulbh.com</a> -->
 
   <p>Canadian / Luxembourgish Dual Citizen</p>
   <p>Looking to emmigrate to the EU around 2026</p>
@@ -21,6 +25,95 @@
   <p>Android & iOS with <a href="https://capacitorjs.com/">Capacitor</a></p>
   <p>Hosting on <a href="https://ubuntu.com/">Ubuntu</a> with <a href="https://nodejs.org/">Node.js</a>, <a href="https://nginx.org/">NGINX</a>, and <a href="https://pm2.keymetrics.io/">PM2</a></p>
   <p>Protected with <a href="https://www.cloudflare.com/">Cloudflare</a> and <a href="https://certbot.eff.org/">Certbot</a></p>
+ 
+  <!-- 
+    Image template for blog posts
+    <img src=" width="500"/> 
+  -->
+    
+  ---
+
+  <h3>Makeshift Blog</h3>
+  <p>I have wanted to do this for a while, but don't want to spend the time to setup a proper blog (yet). So this will do for now!</p>
+    
+  ---
+
+  ### Sat Aug 17, 2024
+  
+  <p>Lots of updates. This week I have been working on clouds, skin, plants and trees.</p>
+
+  <h3>Cloud Study</h3>
+ 
+  <img src="https://github.com/user-attachments/assets/758d4d52-9a00-428e-9570-a91a4634cc47" width="500"/>
+
+  <p>These are my two favorites from the cloud study:</p>
+
+  <img src="https://github.com/user-attachments/assets/f9cd0a9d-046b-494a-809d-ff2a8270db42" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ddc8a289-5a64-4327-a5ca-13d33c30ca9b" width="250"/>
+  
+  <p>I also had a lighter background ready so I can see how that changes them. It made me realize I can't rely on the background for shading the clouds and need to mix in the light/darker shade myself if I want it to show on both light/dark backgrounds.</p>
+
+  <p>You can see here is where I realized the white cloud didn't really have any darker shades because I was relying on the black background for that. However the purple cloud I added the shading myself.</p>
+
+  <img src="https://github.com/user-attachments/assets/905171ea-db59-4e93-b89c-7a60ecba1d3f" width="250"/>
+
+  <img src="https://github.com/user-attachments/assets/d505eab8-2fd3-44af-a7cb-68b537217e30" width="250"/>
+
+  <h3>Skin Study:</h3>
+
+  <p>I need to play with the different pore brushes, but I am getting an idea of how to make skin.</p>
+  <img src="https://github.com/user-attachments/assets/204ab961-3d37-486d-aad4-6120d9a76443" width="500"/>
+
+  <h3>Greenery Study</h3>
+
+  <p>I got a good start on trees and bushes. I want to make a little personal library of pre-made assets.</p>
+  
+  <img src="https://github.com/user-attachments/assets/4612412e-76bf-4df6-a87b-8c94ffb19909" width="500"/>
+
+  <p>I am going to do some bushes or trees with a separate branch layer, so if I wanted to let you gather from a bush I could use a particle effect during the gatherng and then remove the leaf layer to represent a depleated resource</p>
+
+  <img src="https://github.com/user-attachments/assets/c3b59ae0-3f06-4b5a-89ab-f00e712213f8" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5ce4ea8c-7bdd-4305-a38a-71db98256e44" width="250"/>
+
+
+  <h3>Cloth / Fabric</h3>
+
+  <p>Along with Metal this has been a tricky one so far... While there are some canvas textures, there is no canvas brush by default or in any brush pack I found so far.</p>
+
+  <p>So I created my own canvas texture brushes. Selecting the texture, and then changing the TEXTURE blend mode to "Lightness Map" was all I needed to do to get this effect. Pixel Engine. (Blend mode under the brush texture pattern options, not general brush blend mode)</p>
+
+  <p>Left Texture: "Woof Tissue" for Burlap - Right texture: "01 Canvas" for a finer thread appearance</p>
+  <img src="https://github.com/user-attachments/assets/ab71cf47-8526-4073-8e30-1a644db98d9f" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4800cbeb-b1a8-4f86-954e-2d23cc15193b" width="250"/>
+
+  <h3>Drawing, rigging, and animating a full model</h3>
+
+  <p>I decided to draw a model as if it was an artists poseable mannequin. I figure this will be the easiest way to start learning how to make human-ish movements.</p>
+
+  <p>First I drew each separate part in Krita, and exported it to another file where I merged each body part as a single layer or group. Then I imported each part into Spine, create a skeleton, and attached the parts to the skeleton.</p>
+  
+  <img src="https://github.com/user-attachments/assets/bb34e109-daa4-456e-8f24-c07fd5d51da3" width="369"/>
+
+  <img src="https://github.com/user-attachments/assets/00e3d58c-8339-49b5-b705-b9fa46f6b129" width="200"/>
+
+  <p>Then I was able to get a (very rudimentary) wave animation keyed out.</p>
+
+  <img src="https://github.com/user-attachments/assets/73c3a0f4-a0a0-4a29-9cd6-d7d989b8637d" width="300" />
+
+  <h3>Dragon Skin Reborn</h3>
+
+  <p>I added a few more colors to the dragon skin pattern. I also realized I will need to come up with something else for actual scales. I reawlly love this texture and how this is coming along. Can't wait to actually draw and animate the dragon.</p>
+
+  <p>Dragon Skin Purple & Green</p>
+  <img src="https://github.com/user-attachments/assets/0c581166-4370-495f-af60-7e794ce1062b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d96a051a-ce4b-40b9-90e9-7a22a719d0aa" width="250"/>
+
+  <br /><br />
+
+  <h3>What's next...</h3>
+  <p>The coming week I will be focusing more on character models and animation. I need to make side-profile versions, and then try making walk/run/jump animations. Also dragons. And fire.</p>
+
+  <br />
 
   ---
 
