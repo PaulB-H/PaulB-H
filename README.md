@@ -7,10 +7,12 @@
   </h3>
 
   
-  <!-- <a href="https://paulbh.com">www.paulbh.com</a> -->
+  <!-- <a href="https://paulbh.com">www.paulbh.com</a>
 
   <p>Canadian / Luxembourgish Dual Citizen</p>
   <p>Looking to emmigrate to the EU around 2026</p>
+
+   -->
 
   ---
 
@@ -33,11 +35,37 @@
     
   ---
 
-  <h3>Makeshift Blog</h3>
-  <p>I have wanted to do this for a while, but don't want to spend the time to setup a proper blog (yet). So this will do for now!</p>
+  <h3>Blog</h3>
     
   ---
 
+  ### Tue Aug 20, 2024
+
+  <p>Sadly noticed my nib was dead on Monday, thanfully replacements are coming.</p>
+
+  <img src="https://github.com/user-attachments/assets/62e88103-7365-499f-afcd-32813b288dc6" width="500"/><br />
+  <br />
+  
+  <p>I found out that I could apply gradient map to textures on brushes, which adds a lot of depth and shading in a single stroke. While all these examples are of "Texture - Reptile", the gradients look very similar applied to other textures. These are beautiful, and this is definitely going to help for metallic surfaces too.</p>
+
+  <p>Find the Gold / Pearl gradients here: <a href="https://krita-artists.org/t/gold-and-pearl-gradients-set-for-krita/85040">gold-and-pearl-gradients</a></p>
+
+  <img src="https://github.com/user-attachments/assets/bb0fe4bb-3c28-41b5-b169-4f47cfcf3dd1" width=""/><br />
+  <br />
+
+  <p>Made a rainbow cloud brush:</p>
+
+  <img src="https://github.com/user-attachments/assets/55f7ed5e-e7d1-4b5e-b7d1-7f11fdad1016" width="500"/><br />
+  <br />
+  
+  <p>I found a brush pack that really captures the thick paint amazingly. You can see it in the background undr my name.</p>
+  <p>Find the brush pack here: <a href="https://krita-artists.org/t/memileo-impasto-brushes/92952">Memileo Impasto Brushes</a></p>
+
+  <img src="https://github.com/user-attachments/assets/b6cf75e8-db07-4aef-afaa-1e16942a2d46" width="500"/><br />
+  <br />
+  
+  ---
+  
   ### Sat Aug 17, 2024
   
   <p>Lots of updates. This week I have been working on clouds, skin, plants and trees.</p>
