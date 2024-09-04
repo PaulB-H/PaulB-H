@@ -36,6 +36,24 @@
   ---
 
   <h3>Blog</h3>
+
+  ---
+
+  ### Tue Sep 3, 2024
+
+
+   <p>College Day 1. Game Programming at George Brown. It feels a bit surreal, but I am extremely excited.</p>
+
+  <p>I have wanted to make a post over the past two weeks on a multi-part dragon I am drawing and then animating, but every time I started a post, I noticed something I wanted to change.</p>
+
+  <p>Here it is with a quick background added. Creating varied landscapes and backgrounds is one of the next things I want to start practising.</p>
+
+  <p>The final step is rigging and animating in Spine 2D. I have raised and lowered wings for each side, so I will be able to make flying animation. Pictured are the resting wings.</p>
+
+  <img src="https://github.com/user-attachments/assets/782fb17b-d800-4c40-8967-3b01d4dfb16e" width="500"/> 
+  <br /><br />
+
+  <p>When I get some more time I will upload some progress pictures.</p>
     
   ---
 
