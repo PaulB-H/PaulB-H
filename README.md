@@ -39,6 +39,14 @@
 
   ---
 
+  ### Fri Sep 6, 2024
+
+  <img src="https://github.com/user-attachments/assets/1b91753c-b0c3-4207-a904-0459c3e83293" width="500"/> 
+<br />
+<h1>🇺🇦 💔</h1>
+
+  ---
+
   ### Tue Sep 3, 2024
 
 
