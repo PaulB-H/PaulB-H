@@ -32,14 +32,15 @@
     Image template for blog posts
     <img src=" width="500"/> 
   -->
-    
-  ---
-
-  <h3>Blog</h3>
 
   ---
 
-  ### Fri Sep 6, 2024
+<details>
+<summary><h3>Click for Blog</h3></summary>
+
+  ---
+
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Fri Sep 6, 2024
 
   <img src="https://github.com/user-attachments/assets/1b91753c-b0c3-4207-a904-0459c3e83293" width="500"/> 
 <br />
@@ -47,7 +48,10 @@
 
   ---
 
-  ### Tue Sep 3, 2024
+  <details>
+  <summary><h3>Click for Older Posts</h3></summary>
+
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Tue Sep 3, 2024
 
 
    <p>College Day 1. Game Programming at George Brown. It feels a bit surreal, but I am extremely excited.</p>
@@ -65,7 +69,7 @@
     
   ---
 
-  ### Tue Aug 20, 2024
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Tue Aug 20, 2024
 
   <p>Sadly noticed my nib was dead on Monday, thanfully replacements are coming.</p>
 
@@ -92,7 +96,7 @@
   
   ---
   
-  ### Sat Aug 17, 2024
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Sat Aug 17, 2024
   
   <p>Lots of updates. This week I have been working on clouds, skin, plants and trees.</p>
 
@@ -171,7 +175,7 @@
 
   ---
 
-  ### Mon Aug 12, 2024
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Mon Aug 12, 2024
 
   <p>I am getting familiar with different brushes in Krita, and hoarding any good bundles I can find. Advanced brushes can make certian things, particuarilly textures and hair, a lot easier.</p>
 
@@ -196,7 +200,7 @@
 
   ---
 
-  ### Fri Aug 9, 2024
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Fri Aug 9, 2024
 
   <p>For the past month or so I have been learning <a href="https://esotericsoftware.com/">Spine 2D</a>. Spine lets you create skeletal based animations, which can greatly reduce filesize compared to using spritesheets. It also makes it easier to create natural feeling animations, as it can interpolate between keyframes for you. Spine pro also supports meshes and mesh deformation, which can be weighted to bones so moving a bone can deform specific vertices</p>
 
@@ -215,6 +219,14 @@
   <img src="https://github.com/user-attachments/assets/a08c02c2-9082-4c69-b0e2-3d647219542f" width="500" />
 
   ---
+
+  </details>
+
+  </details>
+
+  ---
+
+  <br />
   
   <img src="icons\html5-original.svg" alt="" width="75" height="75">&nbsp;
   <img src="icons\css3-original.svg" alt="" width="75" height="75">&nbsp;
