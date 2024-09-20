@@ -10,7 +10,7 @@
   <!-- <a href="https://paulbh.com">www.paulbh.com</a>
 
   <p>Canadian / Luxembourgish Dual Citizen</p>
-  <p>Looking to emmigrate to the EU around 2026</p>
+  <p>Looking to emmigrate to the EU around 2029</p>
 
    -->
 
@@ -35,8 +35,27 @@
 
   ---
 
-<details>
-<summary><h3>Click for Blog</h3></summary>
+<details open>
+<summary><h3>Blog</h3></summary>
+
+  ---
+
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Thu Sep 19, 2024
+
+  <p>Trying to catch up on math 🫠</p>
+  <p>This has also given me an opportunity to look into LaTeX. I first discovered it when looking to document some formula for a space games physics.</p>
+
+  <p><sub>Some notes I am making</sub></p>
+  <img src="https://github.com/user-attachments/assets/58204d07-2909-43a8-9376-916df3585ae3" width="500"/> 
+  <br />
+  <br />
+
+  <p>Play with LaTeX in-browser here: <a href="https://latex.js.org/playground.html">latex.js.org/playground</a></p
+
+  ---
+
+  <details>
+  <summary><h3>Click for Older Posts</h3></summary>
 
   ---
 
@@ -48,11 +67,7 @@
 
   ---
 
-  <details>
-  <summary><h3>Click for Older Posts</h3></summary>
-
   ### &nbsp;&nbsp;&nbsp;&nbsp; Tue Sep 3, 2024
-
 
    <p>College Day 1. Game Programming at George Brown. It feels a bit surreal, but I am extremely excited.</p>
 
