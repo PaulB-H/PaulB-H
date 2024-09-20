@@ -4,8 +4,16 @@
   <h3>Game Developer <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub>JavaScript Fanatic</sub>
+  
   </h3>
 
+  <br />
+  <p>Year 1 Student of George Brown Game Programming</p>
+  <p>Currently:<br />
+    - Getting caught up on some foundational math <br /> 
+    - Learning C# and Unity<br /> 
+    - Still building stuff with JS
+  </p>
   
   <!-- <a href="https://paulbh.com">www.paulbh.com</a>
 
@@ -13,6 +21,8 @@
   <p>Looking to emmigrate to the EU around 2029</p>
 
    -->
+
+  
 
   ---
 
