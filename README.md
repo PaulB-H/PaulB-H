@@ -50,6 +50,20 @@
 
   ---
 
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Mon Sep 23, 2024
+
+  <p>I recently setup a login/auth system using Node.JS, MariaDB, Firebase, and Sign in with Google. Initially I was going to setup the systems directly, but realizing Firebase could handle a lot of the work, and I wouldn't need to pay the Google/Apple developer account fees made me give it a try.</p>
+  <p>It is very weird having a user system and database and not storing any passwords for them! I also love not having to worry about password reset systems and all the other things required for a secure and functional login system. I managed to get the checks for token revokation to be done through a Firebase Realtime Database. Since it's just a key/value store, I am thinking i could move this to a local REDIS server instead, but it's working quite well so far.</p>
+  <p>Now to setup the actual websocket server which I will be using uwebsockets.js for.</p>
+
+
+  ---
+
+  <details>
+  <summary><h3>Click for Older Posts</h3></summary>
+
+  ---
+
   ### &nbsp;&nbsp;&nbsp;&nbsp; Thu Sep 19, 2024
 
   <p>Trying to catch up on math 🫠</p>
@@ -61,11 +75,6 @@
   <br />
 
   <p>Play with LaTeX in-browser here: <a href="https://latex.js.org/playground.html">latex.js.org/playground</a></p
-
-  ---
-
-  <details>
-  <summary><h3>Click for Older Posts</h3></summary>
 
   ---
 
