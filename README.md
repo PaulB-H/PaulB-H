@@ -4,10 +4,11 @@
   <h3>Game Developer <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub>JavaScript Fanatic</sub>
-  
   </h3>
 
-  <br />
+  <sub>🎵 A Squire Of the <a href="https://www.youtube.com/@ScholastumProvost">Scholastum</a> at Castle Libratus</sub><br/>
+  <sub>🎵 Planeswalking across the endless <a href="https://www.youtube.com/@chronoscapes_">Chronoscapes</a></sub>
+
   <p>Year 1 Student of George Brown Game Programming</p>
   <p>Currently:<br />
     - Getting caught up on some foundational math <br /> 
@@ -28,7 +29,7 @@
 
   <h3>Here are some of the things I use the most:</h3>
 
-   <p><a href="https://javascript.info/">JavaScript</a> / <a href="https://www.typescriptlang.org/">TypeScript</a></p>
+  <p><a href="https://javascript.info/">JavaScript</a> / <a href="https://www.typescriptlang.org/">TypeScript</a></p>
   <p>Game Dev with <a href="https://phaser.io/">Phaser</a> and <a href="https://react.dev/">React</a></p>
   <p>Image Editing with <a href="https://krita.org/en/">Krita</a> and <a href="https://www.aseprite.org/">Aesprite</a></p>
   <p>2D Skeletal Animation with <a href="https://esotericsoftware.com/">Spine 2D</a></p>
