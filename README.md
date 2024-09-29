@@ -50,17 +50,57 @@
 
   ---
 
-  ### &nbsp;&nbsp;&nbsp;&nbsp; Mon Sep 23, 2024
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Sun Sep 29, 2024
 
-  <p>I recently setup a login/auth system using Node.JS, MariaDB, Firebase, and Sign in with Google. Initially I was going to setup the systems directly, but realizing Firebase could handle a lot of the work, and I wouldn't need to pay the Google/Apple developer account fees made me give it a try.</p>
-  <p>It is very weird having a user system and database and not storing any passwords for them! I also love not having to worry about password reset systems and all the other things required for a secure and functional login system. I managed to get the checks for token revokation to be done through a Firebase Realtime Database. Since it's just a key/value store, I am thinking i could move this to a local REDIS server instead, but it's working quite well so far.</p>
-  <p>Now to setup the actual websocket server which I will be using uwebsockets.js for.</p>
+  <p>Really happy with the server setup so far:</p>
+  <ul>
+    <li> Firebase with Google OAuth</li>
+    <li> Firebase RTDB for token revocation status</li>
+    <li> Express server for Sign Up, HTTP</li>
+    <li> Local MariaDB for my User Data</li>
+    <li> uwsjs websocket server</li>
+    <li> Redis for
+      <ul>
+        <li>Websocket Message Brokering</li>
+        <li>Websocket Room Management</li>
+        <li>Server Side Active Game Data</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>I already knew to use Redis for room management, but I did not realize it could be used to help scale something like uwsjs by brokering messages between uwsjs servers running in a cloud environment.</p>
+
+  <p>I was wanting to use this backend with Phaser, but phaser-on-nodejs only supports 3.55 as the highest, and I have not been able to get it working with an updated version... yet...</p>
+  <p>While I still want to work on making that happen, for now I will create an extremely basic engine to use server and client side. I was thinking about using a more minimal framework than phaser (like a stand-aline physics engine on the backend and a simpler render engine for client), but this is a good opportunity to learn and I am kinda excited to try.</p>
+<p>I am definitely going to be getting some help from this legendary article:<br />
+  <a href="https://www.gabrielgambetta.com/client-server-game-architecture.html">gabrielgambetta.com/client-server-game-architecture</a>
+</p>
+  <p>There are 4 main parts the article discusses, each being critical for a multiplayer game:</p>
+  <ul>
+    <li>Client Side Prediction</li>
+    <li>Server Side Reconciliation</li>
+    <li>Entity Interpolation</li>
+    <li>Lag Compensation</li>
+  </ul>
+  <p>I only have a vague understanding of these things, so trying to implement them myself will be really fun. Here is one excerpt from the article I thought was really interesting on entity interpolation:</p>
+  <blockquote>"...;the trick is how to show the player what happens inbetween. The key to the solution is to show the other players in the past relative to the user’s player."</blockquote>
+
+  <p>I found this interesting becuase as a long time MMORPG player, I would occasionally play with someone sitting right next to me. And I would notice if we were running "together" sometimes, on my screen they would appear slighly behind me, while on their screen I would appear slightly behind them.</p>
+  <p>I can only assume this could have something to do with the aforementioned entity interpolation implementation.</p>
 
 
   ---
 
   <details>
   <summary><h3>Click for Older Posts</h3></summary>
+
+  ---
+
+  ### &nbsp;&nbsp;&nbsp;&nbsp; Mon Sep 23, 2024
+
+  <p>I recently setup a login/auth system using Node.JS, MariaDB, Firebase, and Sign in with Google. Initially I was going to setup the systems directly, but realizing Firebase could handle a lot of the work, and I wouldn't need to pay the Google/Apple developer account fees made me give it a try.</p>
+  <p>It is very weird having a user system and database and not storing any passwords for them! I also love not having to worry about password reset systems and all the other things required for a secure and functional login system. I managed to get the checks for token revokation to be done through a Firebase Realtime Database. Since it's just a key/value store, I am thinking i could move this to a local REDIS server instead, but it's working quite well so far.</p>
+  <p>Now to setup the actual websocket server which I will be using uwebsockets.js for.</p>
 
   ---
 
