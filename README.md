@@ -6,8 +6,21 @@
     <sub>JavaScript Fanatic</sub>
   </h3>
 
+  <!-- <sub>I need music with minimal vocals, and long enogh to not be distracting.<br/>Here are my favorite channels</sub><br /> -->
   <sub>🎵 A Squire Of the <a href="https://www.youtube.com/@ScholastumProvost">Scholastum</a> at Castle Libratus</sub><br/>
-  <sub>🎵 Planeswalking across the endless <a href="https://www.youtube.com/@chronoscapes_">Chronoscapes</a></sub>
+  <sub>🎵 Planeswalking across the endless <a href="https://www.youtube.com/@chronoscapes_">Chronoscapes</a></sub><br />
+  <sub>🎵 Fellow Human <a href="https://www.youtube.com/watch?v=R47uzn-qFRY">Weather Channel</a> enjoyer</sub><br />
+  <sub>🎵 Riding the <a href="https://www.youtube.com/watch?v=pJH7GuhqOcs">Monorail</a> through ዪ̵̝̠̇̄ሃ̴̧̛̣̹̽ረ̴̰̱͎̈́̍͝ቹ̷͖̲̈́͊ⶴ̴̛̻̣ͅ</sub>
+  <!--
+    If the live stream link breaks I will replace it with
+
+    Monorail
+    https://www.youtube.com/@cryochamberlabel/search?query=monorail
+
+    The Weather Channel
+    https://www.youtube.com/@illadvisedrecords/search?query=THE%20WEATHER%20CHANNEL
+
+  -->
 
   <p>Year 1 Student of George Brown Game Programming</p>
   <p>Currently:<br />
@@ -335,7 +348,17 @@
   <img src="icons\github-original-wordmark.svg" alt="" width="75" height="75">&nbsp;
   <img src="icons\vscode-original-wordmark.svg" alt="" width="75" height="75">&nbsp;
   <img src="icons\postman-original-wordmark.svg" alt="" width="75" height="75">&nbsp;
-  <img src="icons\ssh-original-wordmark.svg" alt="" width="75" height="75">&nbsp;-->
+  <img src="icons\ssh-original-wordmark.svg" alt="" width="75" height="75">&nbsp;
+
+
+  For the cursed text I used "Sous Cheffe" from
+  https://glyphy.io/font-generator/cursed-text
+  then put the result of that into this with a lower crazyness level
+  with cursed enabled for top middle and bottom
+  https://cursedtext.com/  
+
+
+  -->
 
   
   
