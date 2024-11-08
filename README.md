@@ -116,7 +116,19 @@
   <details open>
     <summary><h3>Blog</h3></summary>
     <hr />
-    <div class="latest-post blog-post" id="Sun,Sep,29,2024">
+    <div class="latest-post blog-post" id="Fri,Nov,8,2024">
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp; Fri Nov 8, 2024</h3>
+      <p>Math is kicking my ass 🥲</p>
+      <p>Ran out of time and did not make good use of available resources. I should have asked for more help from the start of the class. Trying to "catch up" on all of high school math essentially from scratch has also been a lot of work. All of my other classes are going well though, I think I am around a 70-80% in them. Personal Finance is one of the more tricky ones, but I actually did enjoy the learning about Time-Value-Money calculations, and taxes.</p>
+      <p>I am really enjoying learning Unity and C#. Domain reloads, even on a lightweight 2D project feel really slow sometimes. I have to mess around with a couple of the fast reload packages out there. I know there are some other limitations to using those, such as it wont pick up changes to certain levels of code unless a full domain reload is done still. Being able to save changes made in inspector during play mode / have them save when play mode is left would be nice too.</p>
+      <p>I was able to get one of the small mainly UI-Based games built for WebGL and hosted on my server / website though so that was cool! Now we are starting to get into sprites, player controllers, collisions, and enemies.</p>
+      <p>I honestly did not think I would go back to school, and I am loving it so far. I know if I refocus my efforts around Math I can learn it.</p>
+    </div>
+    <hr />
+    <details id="older-posts">
+      <summary><h3>Click for Older Posts</h3></summary>
+      <hr />
+      <div class="blog-post" id="Sun,Sep,29,2024">
       <h3>&nbsp;&nbsp;&nbsp;&nbsp; Sun Sep 29, 2024</h3>
       <p>Really happy with the server setup so far:</p>
       <ul>
@@ -190,9 +202,6 @@
       </p>
     </div>
     <hr />
-    <details id="older-posts">
-      <summary><h3>Click for Older Posts</h3></summary>
-      <hr />
       <div class="blog-post" id="Mon,Sep,23,2024">
         <h3>&nbsp;&nbsp;&nbsp;&nbsp; Mon Sep 23, 2024</h3>
         <p>
