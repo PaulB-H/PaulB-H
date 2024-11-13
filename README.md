@@ -59,11 +59,13 @@
 
 <div id="bio">
   <p>Year 1 Student of George Brown Game Programming</p>
+  <p>I love MMO's, and hope to be a part of creating one (or many!) someday.</p>
   <p>
     Currently:<br />
-    - Getting caught up on some foundational math <br />
+    - Trying to keep my head above the math flood<br />
     - Learning C# and Unity<br />
-    - Still building stuff with JS
+    - Dreaming about building stuff with JS 🥲<br />
+    &nbsp;&nbsp; <sup>- I miss you JavaScript</sup>
   </p>
 
   <!-- <a href="https://paulbh.com">www.paulbh.com</a>
