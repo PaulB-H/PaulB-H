@@ -64,8 +64,7 @@
     Currently:<br />
     - Trying to keep my head above the math flood<br />
     - Learning C# and Unity<br />
-    - Dreaming about building stuff with JS 🥲<br />
-    &nbsp;&nbsp; <sup>- I miss you JavaScript</sup>
+    - Playing with Firebase + uwsjs + Redis<br />
   </p>
 
   <!-- <a href="https://paulbh.com">www.paulbh.com</a>
