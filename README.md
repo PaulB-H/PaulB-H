@@ -117,17 +117,63 @@
   <details open>
     <summary><h3>Blog</h3></summary>
     <hr />
-    <div class="latest-post blog-post" id="Fri,Nov,8,2024">
-      <h3>&nbsp;&nbsp;&nbsp;&nbsp; Fri Nov 8, 2024</h3>
-      <p>Math is kicking my ass 🥲</p>
-      <p>Ran out of time and did not make good use of available resources. I should have asked for more help from the start of the class. Trying to "catch up" on all of high school math essentially from scratch has also been a lot of work. All of my other classes are going well though, I think I am around a 70-80% in them. Personal Finance is one of the more tricky ones, but I actually did enjoy the learning about Time-Value-Money calculations, and taxes.</p>
-      <p>I am really enjoying learning Unity and C#. Domain reloads, even on a lightweight 2D project feel really slow sometimes. I have to mess around with a couple of the fast reload packages out there. I know there are some other limitations to using those, such as it wont pick up changes to certain levels of code unless a full domain reload is done still. Being able to save changes made in inspector during play mode / have them save when play mode is left would be nice too.</p>
-      <p>I was able to get one of the small mainly UI-Based games built for WebGL and hosted on my server / website though so that was cool! Now we are starting to get into sprites, player controllers, collisions, and enemies.</p>
-      <p>I honestly did not think I would go back to school, and I am loving it so far. I know if I refocus my efforts around Math I can learn it.</p>
+    <div class="latest-post blog-post" id="Sat,Feb,1,2025">
+      <h3>&nbsp;&nbsp;&nbsp;&nbsp; Sat Feb 1, 2025</h3>
+    	<p>I wanted to make a post at the end of first semester, but ended up getting a very bad cold along with the kids, and by the time it went away, the second semester was starting!</p>
+    	<p>First semester went really well, I got A's in everything except B in English, and I did not pass math (which I was kind of expecting from the start). However, when I realized it would be best to just retake it, it let me put a lot more work in some other courses, and I am really happy with what I was able to learn and create in them. Retaking math this semester and doing one in the summer term is not so bad.</p>
+      <!-- <img
+          src="https://github.com/user-attachments/assets/90b3c606-e3d9-4eba-93c3-8e1dfe5492f6"
+          width="200"
+      />
+      <br /><br /> -->
+    	<p>I made a 1 min 30 second trailer for a game concept. I created 3 levels, made a navmesh and setup agents, made waypoints based on where I wanted to film, and manually recorded it. You can tell it was controlled by me holding the right mouse in edit mode because it's a little shaky. Also learned about materials, lighting, importing and modifying 3d models, and a bunch more.</p>
+      <h3>Click the image below to view the video on YouTube:</h3>
+      <a href="http://www.youtube.com/watch?feature=player_embedded&v=DSr4jr6KHEI" target="_blank">
+        <img src="http://img.youtube.com/vi/DSr4jr6KHEI/0.jpg" alt="" width="500" />
+      </a>
+      <br /><br />
+      <p>Another thing I have been having a lot of fun learning about is the HDRP. I am honestly surprised my laptop can handle it (mostly...) and the built in cloud and water systems are breathtaking. The ship floating is a bit shaky here because it is just matching the position / rotation of a sample of the water surface, instead of actually using buoyancy. The underwater caustics, and fog... I thought at first I didn't care about high fidelity graphics as much, until making stuff with them myself.</p>
+      <table>
+        <tr>
+          <td width="500">
+            <video src="https://github.com/user-attachments/assets/4b47b91b-4ff1-47f1-af83-357b94724dbe" controls="controls"></video>
+          </td>
+          <td width="0%">
+          </td>
+          <td width="0%">
+          </td>
+        </tr>
+      </table>
+      <br />
+      <p>Overall I have spent maybe an equal amount of time between 2D and 3D. The 2D lighting system and 2DShadowCaster components are sweet. Laigter is still the perfect tool for quickly generating some normals. However, I have started to notice situations where it would be handy to know how to manually edit or tweak one.</p>
+        <table>
+        <tr>
+          <td width="500">
+            <video src="https://github.com/user-attachments/assets/fc31269e-efb3-4c52-a1e0-5e89fd4039cf" controls="controls"></video>
+          </td>
+          <td width="0%">
+          </td>
+          <td width="0%">
+          </td>
+        </tr>
+      </table>
+      <br />
+      <p>Now what I really want to learn is multiplayer. I have had success getting one multiplayer netcode-for-gameobjects example working, and I *think* I was able to create a build I could run headless that would automatically start a server. However, I was not able to get it running on my Ubuntu VPS and connect to it... In fact I think it might have crashed the server (it's a micro vps so pretty limited resources..) </p>
+    <p>Eventually my goal will be to learn Unity ECS and Netcode-For-Entities, but it does seem a lot more complicated, so that will be a long term goal. I am thinking a 2D multiplayer game built with ECS could get some impressive scaling.</p>
+      <p>But for now I will be really focusing 100% of any extra time on Math. Because of a conflict, and needing to redo Math 1, I am only taking 5 courses this semester, and will take 2 in the summer term. That should make it easier to ensure I do well in Math.</p>
     </div>
     <hr />
     <details id="older-posts">
       <summary><h3>Click for Older Posts</h3></summary>
+      <hr />
+      <div class="blog-post" id="Fri,Nov,8,2024">
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp; Fri Nov 8, 2024</h3>
+        <p>Math is kicking my ass 🥲</p>
+        <p>Ran out of time and did not make good use of available resources. I should have asked for more help from the start of the class. Trying to "catch up" on all of high school math essentially from scratch has also been a lot of work. All of my other classes are going well though, I think I am around a 70-80% in them. Personal Finance is one of the more tricky ones, but I actually did enjoy the learning about Time-Value-Money calculations, and taxes.</p>
+        <p>I am really enjoying learning Unity and C#. Domain reloads, even on a lightweight 2D project feel really slow sometimes. I have to mess around with a couple of the fast reload packages out there. I know there are some other limitations to using those, such as it wont pick up changes to certain levels of code unless a full domain reload is done still. Being able to save changes made in inspector during play mode / have them save when play mode is left would be nice too.</p>
+        <p>I was able to get one of the small mainly UI-Based games built for WebGL and hosted on my server / website though so that was cool! Now we are starting to get into sprites, player controllers, collisions, and enemies.</p>
+        <p>I honestly did not think I would go back to school, and I am loving it so far. I know if I refocus my efforts around Math I can learn it.</p>
+      </div>
       <hr />
       <div class="blog-post" id="Sun,Sep,29,2024">
       <h3>&nbsp;&nbsp;&nbsp;&nbsp; Sun Sep 29, 2024</h3>
