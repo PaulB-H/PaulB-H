@@ -3,9 +3,16 @@
   <h3>
     Game Developer <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>JavaScript Fanatic</sub>
+    <sub>Unity Fanatic</sub>
   </h3>
 </div>
+
+<div id="bio">
+  <p>Year 1 Student of George Brown Game Programming</p>
+  <p>Unity, C#, TypeScript, Node, Ubuntu</p>
+</div>
+
+<!--
 
 <div id="music">
   <sub>
@@ -27,7 +34,6 @@
     <a href="https://www.youtube.com/watch?v=pJH7GuhqOcs">Monorail</a>
     through ዪ̵̝̠̇̄ሃ̴̧̛̣̹̽ረ̴̰̱͎̈́̍͝ቹ̷͖̲̈́͊ⶴ̴̛̻̣ͅ
   </sub>
-
   <details>
     <summary><h4>Expand for Much More Music</h4></summary>
     <sub>
@@ -55,22 +61,6 @@
     </sub>
     <br /><br />
   </details>
-</div>
-
-<div id="bio">
-  <p>Year 1 Student of George Brown Game Programming</p>
-  <p>I love MMO's, and hope to be a part of creating one (or many!) someday.</p>
-  <p>
-    Currently:<br />
-    - Trying to keep my head above the math flood<br />
-    - Learning C# and Unity<br />
-    - Playing with Firebase + uwsjs + Redis<br />
-  </p>
-
-  <!-- <a href="https://paulbh.com">www.paulbh.com</a>
-
-  <p>Canadian / Luxembourgish Dual Citizen</p>
-  <p>Looking to emmigrate to the EU around 2029</p>-->
 </div>
 
 <hr />
@@ -121,11 +111,6 @@
       <h3>&nbsp;&nbsp;&nbsp;&nbsp; Sat Feb 1, 2025</h3>
     	<p>I wanted to make a post at the end of first semester, but ended up getting a very bad cold along with the kids, and by the time it went away, the second semester was starting!</p>
     	<p>First semester went really well, I got A's in everything except B in English, and I did not pass math (which I was kind of expecting from the start). However, when I realized it would be best to just retake it, it let me put a lot more work in some other courses, and I am really happy with what I was able to learn and create in them. Retaking math this semester and doing one in the summer term is not so bad.</p>
-      <!-- <img
-          src="https://github.com/user-attachments/assets/90b3c606-e3d9-4eba-93c3-8e1dfe5492f6"
-          width="200"
-      />
-      <br /><br /> -->
     	<p>I made a 1 min 30 second trailer for a game concept. I created 3 levels, made a navmesh and setup agents, made waypoints based on where I wanted to film, and manually recorded it. You can tell it was controlled by me holding the right mouse in edit mode because it's a little shaky. Also learned about materials, lighting, importing and modifying 3d models, and a bunch more.</p>
       <h3>Click the image below to view the video on YouTube:</h3>
       <a href="http://www.youtube.com/watch?feature=player_embedded&v=DSr4jr6KHEI" target="_blank">
@@ -605,8 +590,8 @@
       </div>
       <hr />
     </details>
-</div>
-
+    </div>
+    
 <div id="tech-icons">
   <br />
   <img src="icons\html5-original.svg" alt="" width="75" height="75" />&nbsp;
@@ -669,6 +654,8 @@
     height="75"
   />&nbsp;
 </div>
+
+-->
 
 <!-- Notes & Others
 
