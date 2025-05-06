@@ -9,6 +9,7 @@
 
 <div id="bio">
   <p>Year 1 Student of George Brown Game Programming</p>
+  <p>Luxembourg Dual Citizen - Looking to move to the EU after graduating</p>
   <p>Unity, C#, TypeScript, Node, Ubuntu</p>
 </div>
 
