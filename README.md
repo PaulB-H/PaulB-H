@@ -3,15 +3,116 @@
   <h3>
     Game Developer <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>Unity Fanatic</sub>
+    <sub>Unity, C#, TypeScript, Node, Ubuntu</sub>
   </h3>
 </div>
 
 <div id="bio">
-  <p>Year 1 Student of George Brown Game Programming</p>
+  <p>Year 1 Student of George Brown Game Programming<br /><sup>Entering Year 2</sup></p>
   <p>Luxembourg Dual Citizen - Looking to move to the EU after graduating</p>
-  <p>Unity, C#, TypeScript, Node, Ubuntu</p>
 </div>
+
+<hr />
+
+(Music list at bottom)
+
+# May 7, 2025
+
+Passed math 😎\
+Linear Algebra and Geometry is much simpler so far.. phew..
+
+Here are some projects from Semester 2:
+
+https://paulbh.com/leapknight/
+
+https://paulbh.com/sonic/
+
+https://paulbh.com/state/
+
+Here is a larger space game (Work in Progress!)\
+More of a tech demo right now, but not much left to implement to finish the game loop\
+Windows & Linux Builds only - Mac build on the way..\
+[itch.io/orions](https://strideralpha.itch.io/orions)
+
+## Here are some things I am working on
+<sup>and some examples from projects</sup>
+
+MicroSplat + MicroVerse, Enviro 3, Crest 5
+
+https://github.com/user-attachments/assets/a1b935aa-16ed-4f7d-82f8-d5a8319e616a
+
+https://github.com/user-attachments/assets/aad45f2c-a03c-48fb-a2b7-ed821b522732
+
+https://github.com/user-attachments/assets/0a0701cb-1a3e-457b-a626-9f4dc24a9a26
+
+https://github.com/user-attachments/assets/cc010a47-b2b3-4721-aeb4-65e00397bb99
+
+![tiling_vs_stochastic](https://github.com/user-attachments/assets/f676469c-57f4-41d4-8d4a-3eb739e9d5a6)
+
+https://github.com/user-attachments/assets/0433a060-983d-4052-b288-eee88cbf8a4b
+
+Opsive Ultimate Controller + Crest 5
+
+https://github.com/user-attachments/assets/31e29a22-7047-451f-88f0-83f7e73e4aa1
+
+For Orions Shore
+
+All in 1 Sprite Shader for Normal + Emissive\
+Used Laigter for the normal map: azagaya.itch.io/laigter\
+Used Krita to manually paint the emissive map\
+Created transparent SpriteShape with a light underneath for the cockpit
+
+https://github.com/user-attachments/assets/34c5c556-e94d-4028-8a28-14c54014ab81
+
+The dynamic particle system was a bit overkill since removed\
+Base sun + sprite sheet prominence still in though
+
+https://github.com/user-attachments/assets/3dc37e20-c738-4694-a116-296b12e8066e
+
+Early Earth before upscaling:\
+
+https://github.com/user-attachments/assets/9927c146-1cb4-45b0-b7cc-e15acc8d2821
+
+From LeapKnight\
+The attack was an extra I added and not requirement\
+It also has its own achievement for jumping over or killing the slime\
+
+https://github.com/user-attachments/assets/71aa3dd6-ec47-47bc-a0eb-01832917b2d2
+
+Attack Animation from State Machine
+
+https://github.com/user-attachments/assets/c77ca120-6c9b-4760-92f3-90b74ab36dfb
+
+## Music that has kept me going this semester
+
+Love the song & Video:\
+[Ambyion X Shockline X Vidoux - Changing Frequency Remix](https://www.youtube.com/watch?v=ggt0hm-PRU4)
+
+DNB, BreakCore, SynthWave
+
+@Frequency2024\
+https://www.youtube.com/@Frequency2024
+
+@Retroversee\
+https://www.youtube.com/@Retroversee
+
+@VISION84\
+https://www.youtube.com/@VISION84-No5
+
+@Sxnctuary_\
+[https://www.youtube.com/@Sxnctuary_](https://www.youtube.com/@Sxnctuary_)
+
+This kind of breakcore:\
+https://www.youtube.com/watch?v=WUYd8A2davE
+
+Great DnB mix:\
+https://www.youtube.com/watch?v=TOjmh5ljiYs
+
+Classic Aptmospheric mix:\
+https://www.youtube.com/watch?v=eh2bA1lcIds
+
+River & Hornet - Down on me\
+https://www.youtube.com/watch?v=MCv1uQjAwbY
 
 <!--
 
