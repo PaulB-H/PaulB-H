@@ -24,7 +24,7 @@ Creating gameplay / player controllers / npc next, now that I can create the env
 
 ..But I might just sit here a bit longer.
 
-https://github.com/user-attachments/assets/20efdae5-26ca-47e9-9375-5db49199ec8d
+https://github.com/user-attachments/assets/d8a75768-6538-4a75-9ed6-fa6208723dd5
 
 <hr />
 
