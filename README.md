@@ -18,6 +18,16 @@
 
 # May 11, 2025
 
+Got a nice beach setup to show off the stunning Crest Shallow Water System.\
+It uses fluid dynamic simulation for shorelines, shallows, or rivers with real flow.\
+MicroSplat/Verse Terrain.
+
+https://github.com/user-attachments/assets/7106341c-3f19-4acd-a731-8c5f708f2248
+
+<hr />
+
+# May 11, 2025
+
 Getting comfortable with MicroVerse/MicroSplat, Crest, and Enviro. Really loving Unity so far.
 
 Creating gameplay / player controllers / npc next, now that I can create the environments I want.
