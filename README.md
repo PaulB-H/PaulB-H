@@ -16,6 +16,18 @@
 
 (Music list at bottom)
 
+# May 11, 2025
+
+Getting comfortable with MicroVerse/MicroSplat, Crest, and Enviro. Really loving Unity so far.
+
+Creating gameplay / player controllers / npc next, now that I can create the environments I want.
+
+..But I might just sit here a bit longer.
+
+https://github.com/user-attachments/assets/20efdae5-26ca-47e9-9375-5db49199ec8d
+
+<hr />
+
 # May 7, 2025
 
 Passed math 😎\
