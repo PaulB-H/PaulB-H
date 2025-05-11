@@ -26,6 +26,8 @@ Creating gameplay / player controllers / npc next, now that I can create the env
 
 https://github.com/user-attachments/assets/d8a75768-6538-4a75-9ed6-fa6208723dd5
 
+<sub>Crest 5, Crest 5 Shallow Water<br />Enviro 3 ( + Reflection Probe)<br />MicroSplat/MicroVerse<br /></sub>
+
 <hr />
 
 # May 7, 2025
