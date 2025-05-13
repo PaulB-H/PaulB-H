@@ -16,6 +16,16 @@
 
 (Music list at bottom)
 
+# May 13, 2025
+
+Figured out how to use the reflection probe that comes with Enviro 3 setup, and how to enable reflections & planar reflections on the Crest water system as well.
+
+Also enabled ACES tonemapping in postprocessing.
+
+https://github.com/user-attachments/assets/3ed4cee1-cdf1-48b7-bab8-a4bc0507a4ba
+
+<hr />
+
 # May 11, 2025
 
 Got a nice beach setup to show off the stunning Crest Shallow Water System.\
