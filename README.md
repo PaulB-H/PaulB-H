@@ -18,6 +18,34 @@
 
 # May 13, 2025
 
+New laser with glow effect, added extra trail effects when boosting.
+
+https://github.com/user-attachments/assets/47f807b9-12da-49ca-94af-bd918ae67e56
+
+AI overhaul underway. Followed by the long overdue upgrade system, and some scaling enemies.
+
+Not 100% sure how I will handle actual equipment. I think there might be some base upgrades you can do to your ship that will never be lost (even upon death) but then you could acquire special parts with large bonuses or unique effects, but that WILL be lost upon death.
+
+Here is a closer look at the updated ships so far. This is using All in One Sprite Shader.
+
+They all have normal AND emissive maps.
+
+The cockpits are made with a simple SpriteShape, and a colored light under them.
+
+https://github.com/user-attachments/assets/8e1cbefa-803c-43cd-b23e-dbcf49829b8f
+
+And a look at the system again. I made the asteroid belt rotate once more since I kinda have the player moving correctly as a child of the moving belt, thanks to using Extrapolation instead of Interpolation on the players rigidbody.
+
+https://github.com/user-attachments/assets/28acc411-6d7b-4774-9efc-509e04bbc7d9
+
+Also made an emissive map (although the shader really didnt requireee it...) to make this hazard in the race glow nicely (and some heavy chromatic abberation)
+
+https://github.com/user-attachments/assets/4061e1c5-0d5b-461f-98cb-3a0443ccabe0
+
+<hr />
+
+# May 13, 2025
+
 Figured out how to use the reflection probe that comes with Enviro 3 setup, and how to enable reflections & planar reflections on the Crest water system as well.
 
 Also enabled ACES tonemapping in postprocessing.
