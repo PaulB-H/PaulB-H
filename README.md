@@ -16,6 +16,26 @@
 
 (Music list at bottom)
 
+# May 18, 2025
+
+Finally getting around to some AI improvements. I want to have some difficulty scaling for NPC's, and one way I have implemented this is using two properties, "Rotation Speed" and "Aim Skill". The first is self-explanitory, while "Aim Skill" controlls how well the NPC can track you and lead their shots. When you are orbiting an NPC, you may have a high angular velocity relative to them, and since my weapons currently have a travel time (not hit-scan), both player and NPC have to do this (leading shots) to actually hit.
+
+I can also adjust this during runtime, so a skilled NPC might still have some miss streaks, and the inverse for a weaker NPC. This will help make the AI feel more natural. 
+
+You can see below one NPC can track and hit quite well while the other struggles.
+
+https://github.com/user-attachments/assets/e3def120-e68c-495e-90be-411744261e7d
+
+I got vHierachy/Folders/Inspector 2 during the sale and just got around to actually trying it, now I cant go back. It just a few pure QOL enhancements, a couple I particuarlly like are bookmarking things at the top of any tab, and the back/forward buttons in the inspector. vFavorites and vTabs are pretty handy too.
+
+![vFolders2_vInspector2_vHierachy2_features](https://github.com/user-attachments/assets/6f1c4280-ff44-43f7-929a-66e27d11aaad)
+
+Also trying to figure out how the inspector labels and styling work. My goal is collapsible Header sections, not quite there yet.
+
+![editor_inspector_labels](https://github.com/user-attachments/assets/db0e1780-4b75-417c-94ba-66b8c23fa875)
+
+<hr />
+
 # May 13, 2025
 
 New laser with glow effect, added extra trail effects when boosting.
@@ -145,36 +165,39 @@ Attack Animation from State Machine
 
 https://github.com/user-attachments/assets/c77ca120-6c9b-4760-92f3-90b74ab36dfb
 
-## Music that has kept me going this semester
+<hr />
 
-Love the song & Video:\
-[Ambyion X Shockline X Vidoux - Changing Frequency Remix](https://www.youtube.com/watch?v=ggt0hm-PRU4)
+## Music
 
-DNB, BreakCore, SynthWave
+<sup>Recent</sup>
+
+@DreamwaveCity\
+<sub>Funkwave</sub>\
+https://www.youtube.com/@DreamwaveCity
+
+@dreamfibre\
+<sub>Ambient, Soundscapes</sub>\
+https://www.youtube.com/@dreamfibre
+
+@ambientoutpost
+<sub>Ambient, Soundscapes</sub>\
+https://www.youtube.com/@ambientoutpost
 
 @Frequency2024\
+<sub>Synthwave</sub>\
 https://www.youtube.com/@Frequency2024
 
 @Retroversee\
+<sub>Retro Synthwave</sub>\
 https://www.youtube.com/@Retroversee
 
 @VISION84\
+<em>Retro Synthwave</em>\
 https://www.youtube.com/@VISION84-No5
 
 @Sxnctuary_\
+<sub>DNB, Breakcore</sub>\
 [https://www.youtube.com/@Sxnctuary_](https://www.youtube.com/@Sxnctuary_)
-
-This kind of breakcore:\
-https://www.youtube.com/watch?v=WUYd8A2davE
-
-Great DnB mix:\
-https://www.youtube.com/watch?v=TOjmh5ljiYs
-
-Classic Aptmospheric mix:\
-https://www.youtube.com/watch?v=eh2bA1lcIds
-
-River & Hornet - Down on me\
-https://www.youtube.com/watch?v=MCv1uQjAwbY
 
 <!--
 
