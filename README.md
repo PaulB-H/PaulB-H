@@ -18,7 +18,7 @@
 
 # May 18, 2025
 
-Finally getting around to some AI improvements. I want to have some difficulty scaling for NPC's, and one way I have implemented this is using two properties, "Rotation Speed" and "Aim Skill". The first is self-explanitory, while "Aim Skill" controlls how well the NPC can track you and lead their shots. When you are orbiting an NPC, you may have a high angular velocity relative to them, and since my weapons currently have a travel time (not hit-scan), both player and NPC have to do this (leading shots) to actually hit.
+Finally getting around to some AI improvements. I want to have some difficulty scaling for NPCs, and one way I have implemented this is using two properties, "Rotation Speed" and "Aim Skill". The first is self-explanatory, while "Aim Skill" controls how well the NPC can track you and lead their shots. When you are orbiting an NPC, you may have a high angular velocity relative to them, and since my weapons currently have a travel time (not hit-scan), both player and NPC have to do this (leading shots) to actually hit.
 
 I can also adjust this during runtime, so a skilled NPC might still have some miss streaks, and the inverse for a weaker NPC. This will help make the AI feel more natural. 
 
@@ -26,7 +26,7 @@ You can see below one NPC can track and hit quite well while the other struggles
 
 https://github.com/user-attachments/assets/e3def120-e68c-495e-90be-411744261e7d
 
-I got vHierachy/Folders/Inspector 2 during the sale and just got around to actually trying it, now I cant go back. It just a few pure QOL enhancements, a couple I particuarlly like are bookmarking things at the top of any tab, and the back/forward buttons in the inspector. vFavorites and vTabs are pretty handy too.
+I got vHierarchy/Folders/Inspector 2 during the sale and just got around to actually trying it, now I cant go back. It just a few pure QOL enhancements, a couple I particularly like are bookmarking things at the top of any tab, and the back/forward buttons in the inspector. vFavorites and vTabs are pretty handy too.
 
 ![vFolders2_vInspector2_vHierachy2_features](https://github.com/user-attachments/assets/6f1c4280-ff44-43f7-929a-66e27d11aaad)
 
