@@ -14,9 +14,59 @@
 
 <hr />
 
-(Music list at bottom)
-
 # May 18, 2025
+
+### ~~~ Brainstorming Session ~~~
+#### ~~~~ Unique Shield Properties ~~~~~~
+
+Equippable items. Rare drops or quest rewards. Lost upon death.
+
+Percentage values in brackets may be variable.
+
+---
+
+<ins>Unique Shield Properties</ins>
+
+**Strong Surface**
+- Reduced incoming shield damage for first (15%) of energy capacity
+- Increased incoming shield damage for last (25%) of energy capacity
+
+**Focused Matrix**
+- Damage to shield does not drain energy (normally drains energy 1:1)
+- Disabled for ({0.5} seconds) when activating weapons
+
+**Energy Vampire**
+- Damage to shield boosts damage output by (%) temporarily
+- (90%) increased shield drain amount
+  - (x = drain amount) = (x + x * 0.9)
+
+**Boost Bubble**
+- (x = 15%) Increased speed for the first ({y = 3} seconds) while shielded
+- Cooldown equal to ({y} * 2 seconds), starting after deactivation
+  - Does not prevent normal shield functionality
+ 
+**Turtle**
+- Doubles shield capacity
+- Reduces max thrust & boost by (30%)
+
+**Stalker**
+- Cannot be tracked by the following while active:
+  - Turrets
+  - Homing Missiles, Suicide Drones
+  - Sensor Beacons
+- Slight scramble to enemy "Aim Skill" (lead calculations)
+  - May disrupt aim calculations to cause over or undershoot
+  - ( + - 2%) would be enough to seriously disrupt aim
+- (50%) shield damage bleedthrough to ship (normally 0%)
+
+**Second Life**
+- Upon running out of energy, refill energy to 100%
+- Prevent energy regeneration for ({10} seconds) when activated
+- Cooldown of ({45} seconds)
+
+<hr />
+
+# May 17, 2025
 
 Finally getting around to some AI improvements. I want to have some difficulty scaling for NPCs, and one way I have implemented this is using two properties, "Rotation Speed" and "Aim Skill". The first is self-explanatory, while "Aim Skill" controls how well the NPC can track you and lead their shots. When you are orbiting an NPC, you may have a high angular velocity relative to them, and since my weapons currently have a travel time (not hit-scan), both player and NPC have to do this (leading shots) to actually hit.
 
