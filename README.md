@@ -14,6 +14,14 @@
 
 <hr />
 
+# May 20, 2025
+
+Finally stylable foldout headers. Inspector / editor UI coding is a bit confusing. I definitely appreciate having OdinInspector though as this solution extends OdinInspectors group drawer.
+
+![stylable_foldout_headers](https://github.com/user-attachments/assets/c8cac9bf-36a4-4abb-a2fc-3eb9a830c566)
+
+<hr />
+
 # May 18, 2025
 
 ### ~~~ Brainstorming Session ~~~
