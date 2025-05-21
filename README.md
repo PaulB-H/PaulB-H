@@ -14,6 +14,16 @@
 
 <hr />
 
+# May 21, 2025
+
+Replaced PolyNav2D with A* Pathfinding Pro and Behavior Designer Pro + Senses & Movement.
+
+Next to get formations working.
+
+https://github.com/user-attachments/assets/4e9a4d1a-fbf0-490e-9ac0-a49aacbab9f3
+
+<hr />
+
 # May 20, 2025
 
 Finally stylable foldout headers. Inspector / editor UI coding is a bit confusing. I definitely appreciate having OdinInspector though as this solution extends OdinInspectors group drawer.
