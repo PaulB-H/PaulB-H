@@ -16,6 +16,26 @@
 
 # May 21, 2025
 
+Formations working!
+
+https://github.com/user-attachments/assets/014e5c4c-c362-478c-bd14-001ccd832941
+
+The behavior tree for this sequence.
+
+Start to Repeater, so when thing under repeater fails or succeeds it just goes again. Repeater to main sequence. This runs everything underneath from left to right.
+
+There are 3 sequences under our main sequence. Each one will first, until success, try and make the formation underneath it (triangle, circle, or grid) and then wait 2 seconds. After the wait cycle finishes, it passes success up the chain, and the next formation runs.
+
+![behavior_designer_formations_rotation](https://github.com/user-attachments/assets/4ade6eac-65dd-4878-af94-be0e5c115a4f)
+
+The "Until Success" node is there because if one of the child nodes fails (like making a formation) it will cause our main sequence to repeat from the beginning, instead of moving on to the next formation. And I was having issues where formations were occasionally failing.
+
+I narrowed this down to the "Time Stuck" setting on each formation, increasing this from 0.2 to 1 allows enough time for npc's move around each other without triggering a "Formation Failure".
+
+<hr />
+
+# May 21, 2025
+
 Replaced PolyNav2D with A* Pathfinding Pro and Behavior Designer Pro + Senses & Movement.
 
 Next to get formations working.
