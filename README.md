@@ -14,6 +14,20 @@
 
 <hr />
 
+# May 23, 2025
+
+I remade the "Behavior Designer Pro - Formations" demo scene with astar project instead of navmesh. Still need to add the UI, and ability to reset in different formations. There is also an RVO Controller on each AI for local avoidance.
+
+I tried to edit the existing formations demo to use astar project, except they had some functions wrapped for warp and a couple others that explicitly checked for a navmesh agent, and had a pain trying to swap em out properly.... This was much easier.
+
+There is a massive amount to learn about behavior trees... Next steps are getting a formation to move to an arbitrary point, or follow an object, as a formation.
+
+I think once this is done I will go back to working on Opsive Character Controller, then I can get some AI powered by that and Behavior Designer working in a 3d environment on an A* project grid.
+
+https://github.com/user-attachments/assets/eebace51-b0ec-45c9-b137-b15f2b8c1083
+
+<hr />
+
 # May 21, 2025
 
 Formations working!
