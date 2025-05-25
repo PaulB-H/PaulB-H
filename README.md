@@ -14,6 +14,14 @@
 
 <hr />
 
+# May 25, 2025
+
+Making progress with Formations for Behavior Designer Pro. Took me a day before I realized the documentation links on the website are for a previous version for Formations for the old Behavior Designer 🫠 I think I just need to be able to dynamically set the Vector 3 used for the formation destination during runtime, so the formation will follow a moving target like the player.
+
+https://github.com/user-attachments/assets/20f4385c-2e48-4bab-a14f-255460e746b8
+
+<hr />
+
 # May 23, 2025
 
 I remade the "Behavior Designer Pro - Formations" demo scene with astar project instead of navmesh. Still need to add the UI, and ability to reset in different formations. There is also an RVO Controller on each AI for local avoidance.
@@ -274,8 +282,18 @@ https://github.com/user-attachments/assets/c77ca120-6c9b-4760-92f3-90b74ab36dfb
 <sup>Recent</sup>
 
 @DreamwaveCity\
+Okay this is "Partially" AI apparentlly.. I am so conflicted because the beats... but I am pretty anti AI for game assets...\
 <sub>Funkwave</sub>\
 https://www.youtube.com/@DreamwaveCity
+
+
+<sup>From "Dark Fantasy Desire":</sup>\
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Dream Survivor, (21:32)</sub>\
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;https://youtu.be/QN-F3AlyM9A?t=1292</sup>\
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Back Again, (27:12)</sub>\
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;https://youtu.be/QN-F3AlyM9A?t=1632</sup>
+
+<!-- it aint stupid if it works -->
 
 @dreamfibre\
 <sub>Ambient, Soundscapes</sub>\
