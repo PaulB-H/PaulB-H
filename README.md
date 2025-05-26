@@ -14,6 +14,16 @@
 
 <hr />
 
+# May 26, 2025
+
+Formation Movement mostly working. One thing I have not been able to do, is adjust the orientation of the formation. I think this might be a current limitation of the 2D implementation.
+
+<sup>A* Pathfinding Project, Behavior Designer Pro + Formations, 2D, URP</sup>
+
+https://github.com/user-attachments/assets/6deef1b1-a89b-455e-aa8e-79acf501214a
+
+<hr />
+
 # May 25, 2025
 
 Making progress with Formations for Behavior Designer Pro. Took me a day before I realized the documentation links on the website are for a previous version for Formations for the old Behavior Designer 🫠 I think I just need to be able to dynamically set the Vector 3 used for the formation destination during runtime, so the formation will follow a moving target like the player.
@@ -441,7 +451,7 @@ https://www.youtube.com/@VISION84-No5
         <table>
         <tr>
           <td width="500">
-            <video src="https://github.com/user-attachments/assets/fc31269e-efb3-4c52-a1e0-5e89fd4039cf" controls="controls"></video>
+            <video https://github.com/user-attachments/assets/fc31269e-efb3-4c52-a1e0-5e89fd4039cf" controls="controls"></video>
           </td>
           <td width="0%">
           </td>
