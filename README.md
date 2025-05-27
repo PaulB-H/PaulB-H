@@ -287,48 +287,6 @@ https://github.com/user-attachments/assets/c77ca120-6c9b-4760-92f3-90b74ab36dfb
 
 <hr />
 
-## Music
-
-<sup>Recent</sup>
-
-@DreamwaveCity\
-Okay this is "Partially" AI apparentlly.. I am so conflicted because the beats... but I am pretty anti AI for game assets...\
-<sub>Funkwave</sub>\
-https://www.youtube.com/@DreamwaveCity
-
-
-<sup>From "Dark Fantasy Desire":</sup>\
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Dream Survivor, (21:32)</sub>\
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;https://youtu.be/QN-F3AlyM9A?t=1292</sup>\
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Back Again, (27:12)</sub>\
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;https://youtu.be/QN-F3AlyM9A?t=1632</sup>
-
-<!-- it aint stupid if it works -->
-
-@dreamfibre\
-<sub>Ambient, Soundscapes</sub>\
-https://www.youtube.com/@dreamfibre
-
-@ambientoutpost
-<sub>Ambient, Soundscapes</sub>\
-https://www.youtube.com/@ambientoutpost
-
-@Frequency2024\
-<sub>Synthwave</sub>\
-https://www.youtube.com/@Frequency2024
-
-@Retroversee\
-<sub>Retro Synthwave</sub>\
-https://www.youtube.com/@Retroversee
-
-@VISION84\
-<em>Retro Synthwave</em>\
-https://www.youtube.com/@VISION84-No5
-
-@Sxnctuary_\
-<sub>DNB, Breakcore</sub>\
-[https://www.youtube.com/@Sxnctuary_](https://www.youtube.com/@Sxnctuary_)
-
 <!--
 
 <div id="music">
