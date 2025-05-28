@@ -14,13 +14,28 @@
 
 <hr />
 
+# May 28, 2025
+
+I have started figuring out Dynamic Water Physics 2. It integrates so easily with Crest. 
+
+https://github.com/user-attachments/assets/18ccf30a-bced-4145-b8af-0ff78f749ff3
+
+The accuracy is really impressive\
+<sup>!remindme - Replace this with a beach ball</sup>
+
+https://github.com/user-attachments/assets/2962a016-fb5a-406c-bf89-3813e3b471eb
+
+
+
+<hr />
+
 # May 26, 2025
 
 Formation Movement mostly working. One thing I have not been able to do, is adjust the orientation of the formation. I think this might be a current limitation of the 2D implementation.
 
 <sup>A* Pathfinding Project, Behavior Designer Pro + Formations, 2D, URP</sup>
 
-https://github.com/user-attachments/assets/6deef1b1-a89b-455e-aa8e-79acf501214a
+https://github.com/user-attachments/assets/1b25c026-d840-4ab9-a360-25c94b8972e1
 
 <hr />
 
