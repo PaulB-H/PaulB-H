@@ -14,6 +14,14 @@
 
 <hr />
 
+# May 29, 2025
+
+Created a really basic rigid body controller to turn the Duck (with a DWP2 water object component). I want to figure out the Advanced Ship Controller with the custom engines and rudders eventually, but for now, Submarine next.
+
+https://github.com/user-attachments/assets/11838150-daf4-4391-9969-6674327768d5
+
+<hr />
+
 # May 28, 2025
 
 I have started figuring out Dynamic Water Physics 2. It integrates so easily with Crest. 
