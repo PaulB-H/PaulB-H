@@ -14,6 +14,16 @@
 
 <hr />
 
+# May 31, 2025
+
+Dynamic Water Physics 2 - Advanced Ship Controller
+
+Crest 5 - Dynamic Waves + Surface Input Foam
+
+https://github.com/user-attachments/assets/b3060a1a-6b67-4859-9b9b-57cf5d01f3d5
+
+<hr />
+
 # May 29, 2025
 
 Created a really basic rigid body controller to turn the Duck (with a DWP2 water object component). I want to figure out the Advanced Ship Controller with the custom engines and rudders eventually, but for now, Submarine next.
