@@ -14,6 +14,23 @@
 
 <hr />
 
+# June 01, 2025
+
+While trying to learn the Crest 5 - Portals addon, I was inspired to make this diorama.\
+
+https://github.com/user-attachments/assets/0a90d48f-0d5c-43be-8ad7-a8de44107993
+
+Crest 5 + Crest 5 Portals\
+&nbsp;&nbsp;&nbsp;&nbsp;"Portal Mode - Volume (Fly-Through)" on a Sphere mesh.\
+Humpback Whale: Free on Unity store\
+Boat: DWP2 and using integration with Crest.\
+Clouds: Enviro 3\
+Trees, grass, scaffolding, and ruin arch:\
+&nbsp;&nbsp;&nbsp;&nbsp;Toon Adventure Island\
+Seagulls: Bird Flock Bundle
+
+<hr />
+
 # May 31, 2025
 
 Dynamic Water Physics 2 - Advanced Ship Controller
