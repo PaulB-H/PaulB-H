@@ -20,6 +20,18 @@ Month going by too fast!
 
 https://github.com/user-attachments/assets/580b35e8-1e83-4a6d-a2a7-3063460f19e2
 
+Got a model from the store working with UCC default animations. One thing I learned is all the demo animations are setup as (I think) state machines. This character controller is one of the most complicated assets I have learned so far, but its obvious how powerful of a base this is.
+
+https://github.com/user-attachments/assets/c2245b4e-cb6b-4b63-a3d1-c58a7805b6d4
+
+<hr />
+
+# June 06, 2025
+
+Getting a UCC character interacting with a Crest water body with SphereWaterInteraction components placed on the ankles, along torso and on wrists. Next steps to try and rig up a custom model with UCC and get it working with the default / demo animations and items.
+
+https://github.com/user-attachments/assets/808c9857-9591-4f73-8148-d20b3110c29d
+
 <hr />
 
 # June 01, 2025
