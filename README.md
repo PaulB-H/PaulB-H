@@ -14,6 +14,16 @@
 
 <hr />
 
+# June 18, 2025
+
+Math midterm soon. I actually feel prepared for it.
+
+Figuring a bit more out about MicroVerse + The Visual Engine. Need to get Foliage Renderer 2 also added in properly...
+
+![bigger_forest](https://github.com/user-attachments/assets/adb6da67-7d61-463a-9aaa-8136519e42b5)
+
+<hr />
+
 # June 16, 2025
 
 Month going by too fast!
