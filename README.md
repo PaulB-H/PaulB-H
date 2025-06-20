@@ -1,4 +1,4 @@
-<div id="header">
+ <div id="header">
   <h1>Paul Bernard-Hall</h1>
   <h3>
     Game Developer <br />
@@ -11,6 +11,14 @@
   <p>Year 1 Student of George Brown Game Programming<br /><sup>Entering Year 2</sup></p>
   <p>Luxembourg Dual Citizen - Looking to move to the EU after graduating</p>
 </div>
+
+<hr />
+
+# June 19, 2025
+
+It's all splines man. Trying to get River Auto Material 3 working alongside microverse, Rowlans Genesis Integration helps with that. I love how it adjusts the flow depending on the slope of the spline. It's also possible for it to snap to terrain and carve out a path.
+
+https://github.com/user-attachments/assets/a6b58912-306d-4916-b1b5-a8f29e89305e
 
 <hr />
 
