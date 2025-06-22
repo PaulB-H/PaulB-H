@@ -14,6 +14,37 @@
 
 <hr />
 
+# June 22, 2025
+
+I *think* my Linear Algebra and Geometry midterm went OKAY ish. I did arrive 3 hours early to spend some time preparing and write out my formula sheet again. One was provided but I wanted to make sure I understood it. This is way less intense than the first semister math at least!
+
+<img
+  src="https://github.com/user-attachments/assets/f14a22a9-56d2-4e98-979a-f663be870775"
+  width="500"
+/>
+
+Still working on getting RAM integrated with MicroVerse terrain, the carving and adjusting terrain height around the lake is giving me trouble right now. You can see my little combat test area in the bottom left.
+
+![lake_attempt_1_ram](https://github.com/user-attachments/assets/967addbe-4b3a-4d83-af12-38e70db32b05)
+
+I found a breakable wall asset that works with the UCC based character. However, the model I tried to setup has a few issues with its animation / collider so its not quite accurate. Getting there though, and I would love to use a few destructible walls to lead to secrets...
+
+https://github.com/user-attachments/assets/1c02e526-d5a5-4613-9e3d-1d1f38ae36b1
+
+Started looking at Dungeon Architect. Very excited to set this up with my own theme.
+
+https://github.com/user-attachments/assets/28677034-ac06-4874-98a3-cc17fce256e1
+
+I picked up this village pack mainly for the modular buildings, but was pleasantly surprised to find a ton of food as well.
+
+![food_display_2](https://github.com/user-attachments/assets/0089e447-483a-4b37-8ae4-84b2d1b10ee2)
+
+<a href="https://assetstore.unity.com/packages/3d/environments/fantasy/fantastic-village-pack-152970?srsltid=AfmBOoqu_hyVNm_nY5x6i7wntFHaP0kRb4hQR6dXZLNvfu-9I4zxqrDD">Fantastic Village Pack - Unity Asset Store</a>
+
+
+
+<hr />
+
 # June 19, 2025
 
 It's all splines man. Trying to get River Auto Material 3 working alongside microverse, Rowlans Genesis Integration helps with that. I love how it adjusts the flow depending on the slope of the spline. It's also possible for it to snap to terrain and carve out a path.
