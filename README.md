@@ -35,7 +35,7 @@ There's poop in my pants<br />
 A Haiku for Coding:
 
 Weeks of dev indoors<br />
-I step outside, sun burns my skin<br />
+Step outside, sun burns my skin<br />
 Nice tree LOD's<br />
 
 <hr />
