@@ -14,6 +14,14 @@
 
 <hr />
 
+# July 30, 2025
+
+Weeks of dev indoors
+I step outside, sun burns my skin
+Nice tree LOD's
+
+<hr />
+
 # June 22, 2025
 
 I *think* my Linear Algebra and Geometry midterm went OKAY ish. I did arrive 3 hours early to spend some time preparing and write out my formula sheet again. One was provided but I wanted to make sure I understood it. This is way less intense than the first semister math at least!
