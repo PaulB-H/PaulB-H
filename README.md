@@ -14,7 +14,25 @@
 
 <hr />
 
+# July 31, 2025
+
+A couple Haikus for Parents:
+
+Take off diaper at night<br />
+Pee all over, don’t make a sound<br />
+I am a ninja<br />
+
+I felt potty time<br />
+But I love watching Elmo<br />
+There's poop in my pants<br />
+
+<sub>Not chat gpt, llm's for writing is lame, use your own voice</sub>
+
+<hr />
+
 # July 30, 2025
+
+A Haiku for Coding:
 
 Weeks of dev indoors<br />
 I step outside, sun burns my skin<br />
