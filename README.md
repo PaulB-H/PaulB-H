@@ -16,9 +16,9 @@
 
 # July 30, 2025
 
-Weeks of dev indoors
-I step outside, sun burns my skin
-Nice tree LOD's
+Weeks of dev indoors<br />
+I step outside, sun burns my skin<br />
+Nice tree LOD's<br />
 
 <hr />
 
