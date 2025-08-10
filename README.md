@@ -2,8 +2,10 @@
   <h1>Paul Bernard-Hall</h1>
   <h3>
     Game Developer <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>Unity, C#, TypeScript, Node, Ubuntu</sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <sub>Unity, C#<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    TypeScript, Node, Ubuntu</sub>
   </h3>
 </div>
 
@@ -11,6 +13,18 @@
   <p>Year 1 Student of George Brown Game Programming<br /><sup>Entering Year 2</sup></p>
   <p>Luxembourg Dual Citizen - Looking to move to the EU after graduating</p>
 </div>
+
+<hr />
+
+# August 9, 2025
+
+My favorite shots from a few days focused on The Visual Engine + Foliage Renderer 2
+
+<img width="1575" height="876" alt="microverse_tve_fr2_enviro3_dreamscape_meadows" src="https://github.com/user-attachments/assets/e2e79013-acfe-4f6a-9d5c-6c0e9d402793" />
+
+<img width="1574" height="877" alt="microverse_tve_fr2_enviro3_dreamscape_meadows_2" src="https://github.com/user-attachments/assets/3267fca5-ec76-414a-bed4-5d3e6dcbe3bc" />
+
+<img width="1572" height="874" alt="sunrise_volumetric_fog" src="https://github.com/user-attachments/assets/61b810a4-cf33-48c2-82a9-38be146a22bc" />
 
 <hr />
 
