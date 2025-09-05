@@ -10,7 +10,7 @@
 </div>
 
 <div id="bio">
-  <p>Year 2 Student of George Brown Game Programming<br /><sup>Entering Year 2</sup></p>
+  <p>Year 2 Student of George Brown Game Programming</p>
   <p>Luxembourg Dual Citizen - Moving to EU after graduating</p>
 </div>
 
