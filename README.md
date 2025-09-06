@@ -14,6 +14,107 @@
 
 <hr />
 
+# Sep 5, 2025
+
+Second semester has started. I didn't get around to posting a bunch of stuff I did over the summer relate to the Ultimate Character Controller... so here it is from Oldest to Newest. I did manage to get some screenshots and clips thankfully.
+
+UCC got swim ability setup with Crest + Crest Water Interaction Spheres placed on character
+
+https://github.com/user-attachments/assets/fca38df3-00db-4cb9-a076-34d0bc165697
+
+UCC - I got the Balance ability working nicely. I had to make the collider on the bar more narrow, along with proper edge slide ability settings on the charatcer itself. You do need to watch your balance as you can see I fail! Angled beams and beams at different levels are an easy way to add a bit of difficulty.
+
+https://github.com/user-attachments/assets/230f9e6a-f1fe-4fbf-bbc7-05d7af1f7735
+
+UCC - Ledge Strafe by default was allowing a weird cheating behavior...
+
+https://github.com/user-attachments/assets/7d7d0a4d-7911-402c-8eea-141473e3b7bd
+
+And here was the solution. Make the ledge VERY narrow, but give the character a little extra space so they can still start the strafe.
+
+<img width="419" height="602" alt="ledge_strafe_solution" src="https://github.com/user-attachments/assets/eb7c1c81-ea3c-4b6a-a997-826f97417e9a" />
+
+And here is the result, you can no longer jump across the ledge.
+
+https://github.com/user-attachments/assets/e5ad56bd-4daa-47d6-b7e6-faa810eefedc
+
+Here are a few of the key movement abilities together as I might want to use them in a real level.
+This is at 2x speed!
+
+https://github.com/user-attachments/assets/d955642f-7068-48b8-bccf-132643ce8fda
+
+I did a revamp of the bounce pad:
+
+<img width="1435" height="495" alt="new_bounce_pad" src="https://github.com/user-attachments/assets/937a3b95-53c1-4d3c-87ca-9e7b30bd9a0b" />
+
+I also set up an animation for it
+
+https://github.com/user-attachments/assets/e2434c9c-5d29-4a84-afa7-dff7fc82af3d
+
+It also works with any other rigidbodies
+
+https://github.com/user-attachments/assets/43ba8f26-00f6-489b-abad-cdf634f2b7b9
+
+Got objects setup with a Dynamic Water Physics 2 Water Object, and little custom script to only enable this when within the Crest Water Portal boundaries. This was really just for fun instead of anything specific, but I could see some puzzle options from this...
+
+You can see here I push a ball that would be below global water level, only start floating when moved within the water boundaries (Constrained by portal) and correctly stops floating when kicked out.
+
+https://github.com/user-attachments/assets/6acd9547-a20e-4000-bd5f-3ebad91667c1
+
+I setup a floating pad, using a DWP2 Water Object + Anchor, and adding it to the Moving Platform layer so the UCC controllers move nicely with it.
+
+https://github.com/user-attachments/assets/89285b20-2e80-4e42-a7cc-8882d8e3cf56
+
+Here you can see I used that same approach to make a bridge of floating lily pads:
+
+https://github.com/user-attachments/assets/a2880d9e-737d-4398-90d1-a3372ccb8c4b
+
+Here is a beautiful screenshot of a partially submerged lily.
+
+<img width="1616" height="932" alt="tilting_lilly" src="https://github.com/user-attachments/assets/68010e43-5a58-4be6-810a-65ecfe95acf0" />
+
+I got the interact ability working, here is it attached to lights in a house.
+
+https://github.com/user-attachments/assets/a5b359fa-1b54-41fc-be87-542438e96491
+
+Here is a button setup to cycle Enviro 3 Time of Day:
+
+https://github.com/user-attachments/assets/c135bf59-3917-4e2e-8427-37666dcf4f68
+
+And one to control the weather, from the new observatory
+
+https://github.com/user-attachments/assets/0e7d9bb2-72ff-42fe-a6f6-26ef12a4ff81
+
+I cut a hole in the side of the house to demo how the crawl abillity could be used to access "secret" areas
+
+https://github.com/user-attachments/assets/b6282503-c769-4fab-aea4-05f02a7f455b
+
+Created two traps, Buzz Saw and Spike Wall:
+
+https://github.com/user-attachments/assets/a903eec6-ba49-4a03-9568-13e7e049ba02
+
+Both are setup to Damage UCC characters:
+
+https://github.com/user-attachments/assets/73890476-1d7e-42cf-9d54-076ecdb6e933
+
+And to finish up... A little thalassophobia warning 🌊
+
+I had no idea you could scale things to like 10 million times in Unity, but you can!
+
+This also required some tweaking of the underwater volume properties of Crest 5, but its terrifying and I love it.
+
+https://github.com/user-attachments/assets/a48a1c4c-dc26-4193-b07d-082b7c13baff
+
+
+
+Phew... SO yeah... been a busy summer doing self study on top of passing both summer classes 👏
+
+
+
+Looking forward to Year 2.
+
+<hr />
+
 # August 9, 2025
 
 My favorite shots from a few days focused on The Visual Engine + Foliage Renderer 2
