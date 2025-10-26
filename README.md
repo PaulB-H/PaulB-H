@@ -14,6 +14,28 @@
 
 <hr />
 
+# Oct 25, 2025
+
+Second semester started pretty rough, but I think I am on top of everything again. One kid started school, then I think the whole family got Covid so it was tough for a bit!
+
+Here are a few Unity things I have managed to work on a bit recently:
+
+Creating paths in MicroVerse with a Spline and Clear/Height/Texture Stamps. This vid showcases how amazing the non destructive workflow is, and the details automatically adjusting to spline position.
+
+https://github.com/user-attachments/assets/91486ea4-8327-4068-af5d-518dd66e074a
+
+Made a couple scenes just to refresh my knowledge with MicroVerse/Splat, and Enviro. Still need to convert the foliage to TVE then setup Foliage Renderer 2, but they look beautiful.
+
+<img width="1797" height="922" alt="enviro_beauty_clouds" src="https://github.com/user-attachments/assets/61956130-c02b-4ba2-9073-e9a669b76e54" />
+
+<img width="1786" height="904" alt="enviro_beauty_aurora" src="https://github.com/user-attachments/assets/7aa5c0e0-f65d-4323-89d3-5f7af36de31f" />
+<br/><br/>
+Probably wont post much until end of the semester!
+
+o7
+
+<hr />
+
 # Sep 5, 2025
 
 Second semester has started. I didn't get around to posting a bunch of stuff I did over the summer relate to the Ultimate Character Controller... so here it is from Oldest to Newest. I did manage to get some screenshots and clips thankfully.
