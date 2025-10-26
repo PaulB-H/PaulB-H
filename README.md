@@ -22,7 +22,7 @@ Here are a few Unity things I have managed to work on a bit recently:
 
 Creating paths in MicroVerse with a Spline and Clear/Height/Texture Stamps. This vid showcases how amazing the non destructive workflow is, and the details automatically adjusting to spline position.
 
-https://github.com/user-attachments/assets/91486ea4-8327-4068-af5d-518dd66e074a
+https://github.com/user-attachments/assets/ccc5f140-fbb1-45c9-8370-15750c9a3381
 
 Made a couple scenes just to refresh my knowledge with MicroVerse/Splat, and Enviro. Still need to convert the foliage to TVE then setup Foliage Renderer 2, but they look beautiful.
 
