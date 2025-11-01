@@ -14,6 +14,53 @@
 
 <hr />
 
+# Nov 1, 2025
+
+To prepare for my graphics programming midterm, I went through and hand wrote all the methods & args. This really made a huge difference vs typing out the code again, moreso than I thought. The time and focus it takes to write must be a part of that.
+
+<img width="1227" height="814" alt="graphics_notes" src="https://github.com/user-attachments/assets/a8ce3a39-a4b9-4015-99d5-f72b3ecc3515" />
+<br /><br />
+
+Here are a couple other landscapes I setup after the Alpine & Icelands
+
+<img width="1373" height="831" alt="desert" src="https://github.com/user-attachments/assets/4a7a149b-43d9-4738-a10e-24f222b97c5b" />
+
+<img width="1615" height="930" alt="asian_bk" src="https://github.com/user-attachments/assets/c1fe50e1-7578-475a-b9ca-7c931cb6940e" />
+<br /><br />
+
+MicroVerse/MicroSplat are really amazing to be able to handle all these textures, stamps, etc on the same terrain.
+
+You can also more clearly see the splines used to create the two paths in the alpines & icelands.
+
+<img width="1241" height="941" alt="top_view" src="https://github.com/user-attachments/assets/8dea07b1-b637-4336-a7f5-6e2325d29c55" />
+<br /><br />
+
+I also recently got some armor sets from Blink. It was the last asset I didn't really have anything of, and I am a massive fan of these sets. I like that they are stylized / hand painted very beautifully, but also use some PBR properties.
+
+I am also using Beautify 3 post processing quick settings here, with the unity post processing disabled.
+
+The dragon hunter albedo was upscaled using a local AI upscaler, [Upscayl](https://upscayl.org/), on digital art settings to go from 2048 to 4096. It makes a noticable difference on sets with fine details at up close (as you might expect) and when re-compressed / optimized even a little, the filesize was actually *smaller* than the original albedo filesize.
+
+Blink, Dragon Hunter armor set:
+
+<img width="1159" height="923" alt="blink_dragon_hunter_beautify3" src="https://github.com/user-attachments/assets/e114d6d0-38d0-4309-85c5-bc0f53e46a9b" />
+<br /><br />
+
+Blink, Hydra armor set:
+
+<img width="1062" height="926" alt="blink_hydra_beautify3" src="https://github.com/user-attachments/assets/d3e4a787-2ecf-4cf9-a7d7-63c147db9d99" />
+<br /><br />
+
+I am also finally getting back to Ultimate Character Controller, here is a Blink character + armor set hooked up to UCC and running around. It is time to work on custom UCC abilities, combat, and NPC's.
+
+Although I don't think I am going to use UCC for NPC's due to processing overhead and most of them wont need as much movement stuff, at least for now / while learning to get some kind of MVP of a a game up. I think just Behavior Designer + A* + basic scripts to  interact with the UCC components of the player will be all I need for NPC's.
+
+https://github.com/user-attachments/assets/e7f815e9-fe2f-44c4-8be2-e297df285ca3
+
+<!-- H265 Encoded https://github.com/user-attachments/assets/e25d13ec-4b5d-44ba-97a6-fb8c79d46cea -->
+
+<hr />
+
 # Oct 25, 2025
 
 Second semester started pretty rough, but I think I am on top of everything again. One kid started school, then I think the whole family got Covid so it was tough for a bit!
@@ -22,7 +69,10 @@ Here are a few Unity things I have managed to work on a bit recently:
 
 Creating paths in MicroVerse with a Spline and Clear/Height/Texture Stamps. This vid showcases how amazing the non destructive workflow is, and the details automatically adjusting to spline position.
 
-https://github.com/user-attachments/assets/ccc5f140-fbb1-45c9-8370-15750c9a3381
+<!-- H265 Encoded https://github.com/user-attachments/assets/ccc5f140-fbb1-45c9-8370-15750c9a3381 -->
+
+<!-- H264 Encoded -->
+https://github.com/user-attachments/assets/0a24c46f-3c67-4d90-9af5-e428e40668a8
 
 Made a couple scenes just to refresh my knowledge with MicroVerse/Splat, and Enviro. Still need to convert the foliage to TVE then setup Foliage Renderer 2, but they look beautiful.
 
