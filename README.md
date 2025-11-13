@@ -14,6 +14,14 @@
 
 <hr />
 
+So accurate. Money for beer and gambling but not healthcare and education.
+
+Keep voting for him though you morons.
+
+<img width="498" height="97" alt="image" src="https://github.com/user-attachments/assets/22bc7c5c-36eb-42d3-9f21-83b475bdf276" />
+
+<hr />
+
 # Nov 1, 2025
 
 To prepare for my graphics programming midterm, I went through and hand wrote all the methods & args. This really made a huge difference vs typing out the code again, moreso than I thought. The time and focus it takes to write must be a part of that.
