@@ -1,7 +1,12 @@
-Unity C#
+Two options.
 
-MicroVerse/Splat - TVE - FR2 - Crest - DWP2 - Enviro - UCC/UIS/BD - A*
+1. Wait one year and NOT have to spend 220 million dollars
 
-Blink, Rowlan <3
+2. Spend 200 million dollars to get beer in corner stores early
 
-Also I like JS still
+
+Like are you out of your god damn mind to go with the second?
+
+AND HE STILL HAS A MAJORITY DEAR GOD
+
+What the hell is wrong with people in Ontario.
