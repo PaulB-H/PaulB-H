@@ -15,6 +15,18 @@ What the hell is wrong with people in Ontario.
 
 ## Latest stuff.
 
+<hr />
+
+Obi Fluid:
+
+https://github.com/user-attachments/assets/9143a379-a089-4b12-a7a3-a7c787a0cacc
+
+Obi fluids mixing
+
+https://github.com/user-attachments/assets/9656bc61-4c20-4521-8074-9694dc5cee3c
+
+<hr />
+
 ### Combat going okay, finally back figuring out UCC. Animations are probably the hardest part of it.
 
 https://github.com/user-attachments/assets/9a6226e3-43e6-4e62-a2ca-15546b299ee2
