@@ -17,6 +17,12 @@ What the hell is wrong with people in Ontario.
 
 <hr />
 
+Obi Fluid -> Interaction with puddled fluid + foam effects
+
+https://github.com/user-attachments/assets/4fe508e3-91cb-495a-966f-8d41d3761601
+
+<hr />
+
 Obi Fluid:
 
 https://github.com/user-attachments/assets/9143a379-a089-4b12-a7a3-a7c787a0cacc
@@ -42,4 +48,3 @@ https://github.com/user-attachments/assets/4f317045-8635-4ab2-bb60-74d9f29c29e9
 https://github.com/user-attachments/assets/914c5a78-1c92-47af-a125-e7e75308c925
 
 https://github.com/user-attachments/assets/8519c99d-1f68-41bd-ac37-4bf28e0f5f29
-
