@@ -17,6 +17,16 @@ What the hell is wrong with people in Ontario.
 
 <hr />
 
+Found a free spider, upscayl'd to 4k albedo + normal.
+
+<img width="1452" height="753" alt="1k_spider_vs_4k" src="https://github.com/user-attachments/assets/f97a3c2b-371a-4fae-9569-47aef54aa9d7" />
+
+Setup separate nav layer for the small ones, the giant ones cant fit under here.
+
+https://github.com/user-attachments/assets/f753b537-beee-4da4-94d3-0ef2bb0201be
+
+<hr />
+
 Obi Fluid -> Interaction with puddled fluid + foam effects
 
 https://github.com/user-attachments/assets/4fe508e3-91cb-495a-966f-8d41d3761601
