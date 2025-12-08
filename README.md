@@ -13,6 +13,10 @@ What the hell is wrong with people in Ontario.
 
 <hr />
 
+Canada is already part of USA, it's called Alberta, and they are just as dumb as MAGA
+
+<hr />
+
 ## Latest stuff.
 
 <hr />
