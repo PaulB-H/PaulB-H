@@ -21,6 +21,25 @@ What the hell is wrong with people in Ontario.
 
 <hr />
 
+Built this bridge from a rope + wood material and basic shapes to replace the low poly one
+
+<img width="1051" height="822" alt="new_bridge" src="https://github.com/user-attachments/assets/3f9b1d3b-03cb-4cbf-b57a-a9fd8ba107a1" />
+
+Really like how it turned out
+
+<img width="1272" height="928" alt="new_bridge_clear_weather_dwarf" src="https://github.com/user-attachments/assets/4d10fd09-25f5-4aac-b632-9aa028d8b626" />
+
+Fixed up some free lights that needed material texture rebuilding
+
+<img width="770" height="847" alt="dwarf_with_skill_lights" src="https://github.com/user-attachments/assets/0606e383-3a56-40c9-b5c3-ec3c279938cd" />
+
+About to be eaten
+
+![blue_eyed_dwarf](https://github.com/user-attachments/assets/0bd8dfd6-2d32-4ba5-b807-e77d56b45af7)
+
+
+<hr />
+
 Found a free spider, upscayl'd to 4k albedo + normal.
 
 <img width="1452" height="753" alt="1k_spider_vs_4k" src="https://github.com/user-attachments/assets/f97a3c2b-371a-4fae-9569-47aef54aa9d7" />
