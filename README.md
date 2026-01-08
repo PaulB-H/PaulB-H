@@ -21,6 +21,14 @@ What the hell is wrong with people in Ontario.
 
 <hr />
 
+6 more days until semester 4, feels weird to be at / passing the half way point now.
+
+Definitely do not feel ready yet, it's going too fast.
+
+https://github.com/user-attachments/assets/13f5d982-c109-4f8a-bb63-c5d76b872593
+
+<hr />
+
 Built this bridge from a rope + wood material and basic shapes to replace the low poly one
 
 <img width="1051" height="822" alt="new_bridge" src="https://github.com/user-attachments/assets/3f9b1d3b-03cb-4cbf-b57a-a9fd8ba107a1" />
