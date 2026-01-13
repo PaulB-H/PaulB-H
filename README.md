@@ -1,3 +1,15 @@
+# Unity - URP - C#
+
+https://github.com/user-attachments/assets/46f03858-ed94-41ea-bfe4-a5271032696d
+
+https://github.com/user-attachments/assets/13f5d982-c109-4f8a-bb63-c5d76b872593
+
+<img width="1272" height="928" alt="new_bridge_clear_weather_dwarf" src="https://github.com/user-attachments/assets/4d10fd09-25f5-4aac-b632-9aa028d8b626" />
+
+<img width="770" height="847" alt="dwarf_with_skill_lights" src="https://github.com/user-attachments/assets/0606e383-3a56-40c9-b5c3-ec3c279938cd" />
+
+<!--
+
 Two options.
 
 1. Wait one year and NOT have to spend 220 million dollars
@@ -89,3 +101,5 @@ https://github.com/user-attachments/assets/4f317045-8635-4ab2-bb60-74d9f29c29e9
 https://github.com/user-attachments/assets/914c5a78-1c92-47af-a125-e7e75308c925
 
 https://github.com/user-attachments/assets/8519c99d-1f68-41bd-ac37-4bf28e0f5f29
+
+-->
