@@ -1,7 +1,9 @@
-## <ins>Unity - URP - C#</ins>
+## Paul Bernard-Hall<br /><sub>Game Programmer<br />Unity - URP - C#<br />&nbsp;</sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Gameplay Programming\
 &nbsp;&nbsp;&nbsp;&nbsp;Environment & Level Design
+
+---
 
 <ins>George Brown Game Programming</ins>\
 &nbsp;&nbsp;&nbsp;&nbsp;Year 2/3
