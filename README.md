@@ -1,4 +1,25 @@
-# Unity - URP - C#
+## <ins>Unity - URP - C#</ins>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Gameplay Programming\
+&nbsp;&nbsp;&nbsp;&nbsp;Environment & Level Design
+
+<ins>George Brown Game Programming</ins>\
+&nbsp;&nbsp;&nbsp;&nbsp;Year 2/3
+
+<ins>EU Dual Citizen</ins>\
+&nbsp;&nbsp;&nbsp;&nbsp;Looking for opportunities to reloate within the EU
+
+<ins>Also familiar with:</ins>\
+&nbsp;&nbsp;&nbsp;&nbsp;Git, Perforce\
+&nbsp;&nbsp;&nbsp;&nbsp;Unreal, BP, C++\
+&nbsp;&nbsp;&nbsp;&nbsp;TypeScript, Node, NGINX, Ubuntu
+
+<ins>Interested in learning:</ins>\
+&nbsp;&nbsp;&nbsp;&nbsp;DOTS/ECS + Networking
+
+---
+
+## Recent Things
 
 https://github.com/user-attachments/assets/46f03858-ed94-41ea-bfe4-a5271032696d
 
