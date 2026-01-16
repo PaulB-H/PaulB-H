@@ -1,6 +1,6 @@
-## Paul Bernard-Hall<br /><sub>Game Programmer<br />Unity - URP - C#<br />&nbsp;</sub>
+## Paul Bernard-Hall<br /><sub>Game Developer<br />Unity - URP - C#<br />&nbsp;</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Gameplay Programming\
+&nbsp;&nbsp;&nbsp;&nbsp;Gameplay\
 &nbsp;&nbsp;&nbsp;&nbsp;Environment & Level Design
 
 ---
