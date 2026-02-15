@@ -21,10 +21,17 @@
 
 ---
 
+<img width="1920" height="1080" alt="coral_wide_far" src="https://github.com/user-attachments/assets/bbc7b43d-f254-41d8-92a3-0b00b4740038" />
+avart-lit corals placed using microverse detail stamps, crest water, nhance octopus
+---
+
+<!--
+---
+
 https://github.com/user-attachments/assets/c1783d0e-7af5-4767-95b3-860bdd458bbe
 
 ---
-<!--
+
 
 https://github.com/user-attachments/assets/72c82b85-75d8-45f3-9da1-27da417915b4
 
