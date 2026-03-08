@@ -1,24 +1,24 @@
-## Paul Bernard-Hall<br /><sub>Game Developer<br />Unity - URP - C#<br />&nbsp;</sub>
+## Paul Bernard-Hall<br /><sub>Game Developer<br />Unity - C#<br />&nbsp;</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Gameplay\
-&nbsp;&nbsp;&nbsp;&nbsp;Environment & Level Design
+<h2>About</h2>
+
+<p>
+    Gameplay Programmer focused on character controllers, game systems, and immersive environments.<br>
+    <br>
+    Currently studying Game Programming at George Brown College (Year 2/3).<br>
+    <br>
+    EU dual citizen - open to relocation within the EU.<br>
+    <br>
+    Experience with Unity (C#), gameplay mechanics, environment composition, and level design.<br>
+    <br>
+    Additional tools include Git, Perforce, Unreal Engine (Blueprints & C++), and web/backend technologies
+    such as TypeScript, Node, NGINX, and Ubuntu.<br>
+    <br>
+    Interested in exploring DOTS/ECS and multiplayer networking.<br>
+</p>
 
 ---
-
-<ins>George Brown Game Programming</ins>\
-&nbsp;&nbsp;&nbsp;&nbsp;Year 2/3
-
-<ins>EU Dual Citizen</ins>\
-&nbsp;&nbsp;&nbsp;&nbsp;Looking for opportunities to reloate within the EU
-
-<ins>Also familiar with:</ins>\
-&nbsp;&nbsp;&nbsp;&nbsp;Git, Perforce\
-&nbsp;&nbsp;&nbsp;&nbsp;Unreal, BP, C++\
-&nbsp;&nbsp;&nbsp;&nbsp;TypeScript, Node, NGINX, Ubuntu
-
-<ins>Interested in learning:</ins>\
-&nbsp;&nbsp;&nbsp;&nbsp;DOTS/ECS + Networking
-
+### Recent Things
 ---
 
 https://github.com/user-attachments/assets/ab982fd3-a921-4b58-a58a-c3f8f517c355
