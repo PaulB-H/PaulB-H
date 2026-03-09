@@ -21,6 +21,10 @@
 ### Recent Things
 ---
 
+<img width="865" height="873" alt="image" src="https://github.com/user-attachments/assets/e7c41c21-1b3b-468a-981f-72d188f5068c" />
+
+---
+
 https://github.com/user-attachments/assets/ab982fd3-a921-4b58-a58a-c3f8f517c355
 
 <img width="1920" height="1080" alt="coral_wide_far" src="https://github.com/user-attachments/assets/bbc7b43d-f254-41d8-92a3-0b00b4740038" />
