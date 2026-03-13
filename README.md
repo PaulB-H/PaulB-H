@@ -7,7 +7,7 @@
     <br>
     Currently studying Game Programming at George Brown College (Year 2/3).<br>
     <br>
-    EU dual citizen - open to relocation within the EU.<br>
+    EU dual citizen - Looking to relocate within the EU.<br>
     <br>
     Experience with Unity (C#), gameplay mechanics, environment composition, and level design.<br>
     <br>
