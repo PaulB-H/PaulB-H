@@ -16,4 +16,4 @@ The only other main thing that leaves is foliage rendering, not found much else 
 
 For those details I can use Amplify Imposters and just bake out all the imposters I need in a separate solo project (since ASE + ASE Imposters are both per seat)  ~  but once they are baked out I can just move the assets over and anyone on team would be able to use then (just not bake out imposters themselves) - that will really help reduce load without relying on billboards for details that dont look great usually...
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ff6b55-0710-487e-b5dd-54d6b0084a52" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/673e576c-52bb-4288-9404-c802a11715bd" />
