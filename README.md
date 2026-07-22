@@ -5,13 +5,13 @@ Custom EQS like system using unitys navmesh
 
 Breakable Glass: free asset tweaked a bit
 
-FPS Controller: free asset im using to learn first person a bit more
-        -> This is only for gun...
-        -> Need first person melee animations...
+FPS Controller: free asset im using to learn first person a bit more\
+&nbsp;&nbsp;&nbsp;&nbsp;-> This is only for gun...\
+&nbsp;&nbsp;&nbsp;&nbsp;-> Need first person melee animations...
         
-Creating custom breakable objects using the Fracture addon in Blender
-        -> Need to figure out how to make them hollow before fracture
-        -> Amazed the UV data stays intact too
+Creating custom breakable objects using the Fracture addon in Blender\
+&nbsp;&nbsp;&nbsp;&nbsp;-> Need to figure out how to make them hollow before fracture\
+&nbsp;&nbsp;&nbsp;&nbsp;-> Amazed the UV data stays intact too
 
 https://github.com/user-attachments/assets/255e40cb-29a9-4cdb-b4c1-c3a95652e493
 
