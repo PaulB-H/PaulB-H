@@ -10,6 +10,8 @@ FPS Controller: free asset im using to learn first person a bit more
         -> Need first person melee animations...
         
 Creating custom breakable objects using the Fracture addon in Blender
+        -> Need to figure out how to make them hollow before fracture
+        -> Amazed the UV data stays intact too
 
 https://github.com/user-attachments/assets/255e40cb-29a9-4cdb-b4c1-c3a95652e493
 
