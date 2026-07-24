@@ -1,3 +1,15 @@
+jul 23
+
+Found some hidden first person sword animations in the FPS - Gun FBX
+
+Having a lot of fun with them ~
+
+https://github.com/user-attachments/assets/9fe47dab-f284-4fa3-94ad-026ec24004b4
+
+https://github.com/user-attachments/assets/41eb4399-0bfd-4ce9-bee1-f62e7e81295c
+
+---
+
 jul 21/2026\
 whats new....
 
