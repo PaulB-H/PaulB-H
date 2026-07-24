@@ -1,3 +1,13 @@
+jul 24
+
+npc who circles
+
+this is with 100% chance to dodge
+
+https://github.com/user-attachments/assets/1ed8048f-f7ba-4412-aa54-370d9aeb26d2
+
+
+
 jul 23
 
 Found some hidden first person sword animations in the FPS - Gun FBX
