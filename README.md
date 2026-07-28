@@ -1,3 +1,18 @@
+jul 28
+
+Blocking Test\
+&nbsp;&nbsp;&nbsp;&nbsp; -> 100% chance to react to attack\
+&nbsp;&nbsp;&nbsp;&nbsp; -> 100% preference to block\
+&nbsp;&nbsp;&nbsp;&nbsp; -> Forced 3 second hold on chose to block
+
+https://github.com/user-attachments/assets/f1470d5e-ce99-4a84-8fe5-e4fbbc9f5f6e
+
+Binding some bracers to this first person rig so I can allow some customization
+
+<img width="863" height="723" alt="image" src="https://github.com/user-attachments/assets/2066e06e-1e91-4377-afbb-50f5df427cf5" />
+
+---
+
 jul 25
 
 bit more behavior for ai
