@@ -1,3 +1,15 @@
+Aug 4
+
+Wired up player-block-hit reaction, fullscreen blood effect, and tweaked blood splash & decal
+
+The first attack I fail to block cause you need to be facing 60 deg to successfully block (Can tweak this for diff weapons / shields etc)
+
+Its working pretty well so far, there are a few things I would like to add such as multiple NPC's on the same faction detecting each other, and trying to flank the player / staying out of each others way during combat
+
+https://github.com/user-attachments/assets/73376601-267a-44c0-aaf6-c85fe050bbf3
+
+---
+
 jul 28
 
 Blocking Test\
