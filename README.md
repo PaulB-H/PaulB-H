@@ -1,3 +1,15 @@
+Aug 12
+
+Spent a few days exploring some Unreal assets, then exporting to FBX & importing and setting them up in Unity.
+
+Here's a scene I made with some of them.
+
+Structures from Laya Designs, Stylized Water 3 w/planar reflections and scaled up ocean quads for view distance, Boxphobic height fog, beautify (aces, sharpen, dither, bloom, dof), TAA, BK cloud shader with extended view matrix.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0071392a-b44c-462e-907a-98f6f7bec96b" />
+
+---
+
 Aug 5
 
 Perfect Look At ~ No updates for 6 years, still works quite well
