@@ -1,3 +1,13 @@
+Aug 14
+
+Laya Designs, BK, Kronnect
+
+<img width="1920" height="1080" alt="forest_village_final_Reduced_LODS" src="https://github.com/user-attachments/assets/0bf9ca54-76d7-48db-81d9-7c408d81cdda" />
+
+https://github.com/user-attachments/assets/ba057596-6f0e-4da6-9fc0-90bc58fb7c09
+
+---
+
 Aug 12
 
 Spent a few days exploring some Unreal assets, then exporting to FBX & importing and setting them up in Unity.
