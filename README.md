@@ -20,14 +20,6 @@ Structures from Laya Designs, Stylized Water 3 w/planar reflections and scaled u
 
 ---
 
-Aug 5
-
-Perfect Look At ~ No updates for 6 years, still works quite well
-
-https://github.com/user-attachments/assets/4a687014-42e2-4072-91fd-cb3f0d930997
-
----
-
 Aug 4
 
 Wired up player-block-hit reaction, fullscreen blood effect, and tweaked blood splash & decal
