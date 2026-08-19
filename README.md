@@ -1,3 +1,11 @@
+Aug 18
+
+Fighting realistic physics to get extreme speeds it a bit of a pain, but working more or less.
+
+<img width="812" height="674" alt="image" src="https://github.com/user-attachments/assets/b7618a46-16a6-4afe-b8c8-1b05326fb9c4" />
+
+---
+
 Aug 14
 
 Laya Designs, BK, Kronnect
