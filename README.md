@@ -1,3 +1,9 @@
+Aug 20
+
+https://github.com/user-attachments/assets/ee61dfa1-91be-4b5c-8c89-73515544a758
+
+---
+
 Aug 18
 
 Fighting realistic physics to get extreme speeds it a bit of a pain, but working more or less.
