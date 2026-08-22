@@ -12,19 +12,11 @@ https://github.com/user-attachments/assets/ee61dfa1-91be-4b5c-8c89-73515544a758
 
 ---
 
-Aug 18
-
-Fighting realistic physics to get extreme speeds it a bit of a pain, but working more or less.
-
-<img width="812" height="674" alt="image" src="https://github.com/user-attachments/assets/b7618a46-16a6-4afe-b8c8-1b05326fb9c4" />
-
----
-
 Aug 14
 
 Laya Designs, BK, Kronnect
 
-<img width="1920" height="1080" alt="forest_village_final_Reduced_LODS" src="https://github.com/user-attachments/assets/0bf9ca54-76d7-48db-81d9-7c408d81cdda" />
+<img width="1920" height="1080" alt="forest_village_final_Reduced_LODS_MIN" src="https://github.com/user-attachments/assets/e3f34272-91fd-47fb-8500-7b7b0ed3f1e6" />
 
 https://github.com/user-attachments/assets/ba057596-6f0e-4da6-9fc0-90bc58fb7c09
 
@@ -38,7 +30,7 @@ Here's a scene I made with some of them.
 
 Structures from Laya Designs, Stylized Water 3 w/planar reflections and scaled up ocean quads for view distance, Boxphobic height fog, beautify (aces, sharpen, dither, bloom, dof), TAA, BK cloud shader with extended view matrix.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0071392a-b44c-462e-907a-98f6f7bec96b" />
+<img width="1920" height="1080" alt="final_MIN" src="https://github.com/user-attachments/assets/dd0b46bc-5110-4ecf-aab8-1115097443fa" />
 
 ---
 
