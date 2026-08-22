@@ -1,3 +1,11 @@
+Aug 21
+
+Made a track with Spline + Spline Extrude for the road + a few Spline Instantiate for side details.
+
+<img width="1920" height="1080" alt="1000_kph_track_v1_MIN" src="https://github.com/user-attachments/assets/a39cbb54-6c27-403c-bf1c-f5d4b136b4c0" />
+
+---
+
 Aug 20
 
 https://github.com/user-attachments/assets/ee61dfa1-91be-4b5c-8c89-73515544a758
