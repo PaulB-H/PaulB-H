@@ -1,3 +1,11 @@
+Sep 2
+
+My JavaScript DititalRain effect in HLSL, made by pointing deepseek at the repo and a few rounds of tweaks.
+
+https://github.com/user-attachments/assets/6ce64fa0-ac74-428d-a457-4198af616301
+
+---
+
 Aug 22
 
 Made a track with Spline + Spline Extrude for the road + Spline Instantiate for side details.
