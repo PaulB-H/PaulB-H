@@ -1,3 +1,11 @@
+Sep 3
+
+Characters in ~ Looking much better with a Monospaced Japanese font too
+
+https://github.com/user-attachments/assets/4c842473-72b5-4bba-bc31-ee99bf65619a
+
+---
+
 Sep 2
 
 My JavaScript DititalRain effect in HLSL, made by pointing deepseek at the repo and a few rounds of tweaks.
