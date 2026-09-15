@@ -1,6 +1,6 @@
 Sep 15
 
-I think I actually discovered an issue with one of the prototype unreal assets.
+I think I actually discovered an issue with one of the prototype Unreal assets.
 
 The "BP_DoorFrame" from the FPS arena template has a property for "add door" which can be set to false to remove the door, and true to add it again
 
