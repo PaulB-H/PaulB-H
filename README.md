@@ -1,12 +1,23 @@
-Sep 15
+Oct 9
 
-I think I actually discovered an issue with one of the prototype Unreal assets.
+Busy first month already.
 
-The "BP_DoorFrame" from the FPS arena template has a property for "add door" which can be set to false to remove the door, and true to add it again
+From latest to oldest:
 
-However, if you toggle it off, upon toggling back on, the collision does not get set correctly on the door trigger and it can not be opened.
+<strong><ins>Neon Arena Emissive Lit Only - Unreal</ins></strong>
 
-It was not enough to change the collision type to "Query Only" with a set collision enabled node, I had to actually change the profile to "OverlapAllDynamic" using set collision profile name -> This is kinda the weird part to me that I still don't understand, Unreal's AI said it was due to serialization of collision data on BP Instances when using a custom collision profile but thats still over my head...
+<img width="1920" height="1080" alt="arena_final_blockout" src="https://github.com/user-attachments/assets/1f1bd867-18ce-4a77-b779-9371e1dc2281" />
+
+
+<strong><ins>Infinite driving - Unreal</ins></strong>
+
+https://github.com/user-attachments/assets/f57e69b4-ee49-4fba-8704-b85dd679dfd9
+
+<strong><ins>2d side scrolling mechanics - Unity</ins></strong>\
+Inspired by Nifflas "Within a deep forest"\
+Would like to spend some more time on this one...
+
+https://github.com/user-attachments/assets/1bb2a1e8-dd36-4e47-a92f-a5dcacaf7f7c
 
 ---
 
